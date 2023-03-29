@@ -2,6 +2,9 @@
 
 This app enables AI-powered search for the ALL IN podcast.
 
+App is here:
+https://besties-gpt.fly.dev 
+
 ## Dataset
  
 Use whisper to generate transcripts with all steps outlined in -
@@ -20,7 +23,7 @@ This builds on the excellent UI from https://github.com/mckaywrigley/wait-but-wh
 
 ## Deploy
 
-Deploy to Fly.io.
+Deploy to Fly.io: `fly launch`
 
 ## Credits
 
