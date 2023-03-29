@@ -1,0 +1,737 @@
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=0.0s	0.0	 All right, everybody. Welcome to episode two of the All In Podcast with Jason and Chamath.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=5.2s	5.2	 Some basic ground rules here. If you're not into speculation, you don't like to debate,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=8.4s	8.4	 you don't like to question authority, and you don't like to get a shit ton of inside information.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=12.8s	12.8	 I'm going to actually turn the podcast off right now and go download the Daily from the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=16.3s	16.3	 New York Times or All Things Consider or some other bullshit. But we're here to do speculating
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=21.1s	21.1	 and talking about inside information and the real deal. With me, as always, my co-host, Chamath
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=27.0s	27.0	 Polly Hoppatea, if you don't know how to pronounce it Polly Hoppatea. Chamath, how you doing? You
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=32.6s	32.6	 holding up? Okay. I am doing fabulously well. We are in week four of our lockdown sheltering in place
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=39.4s	39.4	 here. You losing your mind? I'm not because I'm fortunate to be in the suburbs. I think if I was
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=46.8s	46.8	 cooped up in an apartment in the city, I would feel a lot worse than I do right now. But there's
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=53.2s	53.2	 a lot of fresh air. The weather's finally turned. It's not raining as much. So we get to see the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=57.8s	57.8	 sun a little bit. Makes a big difference. Yeah. Can you imagine 15, 20 years ago, hold up in an
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=62.4s	62.4	 apartment with three kids who are home from school? Like these people who are in a city,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=66.5s	66.5	 they must be going insane. I mean, there's so much value to visiting New York, but if you're stuck
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=71.4s	71.4	 there in a quarantine lockdown, I don't know what I do. All right. Well, we got a great guest
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=78.6s	78.6	 today. I wanted to introduce our guest Chamath. Well, we are really lucky here. This is a person
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=84.5s	84.5	 who I've known now for, I don't know, maybe 15, 20 years. What I would call him is one of my best
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=91.8s	91.8	 show ponies. I have ridden this motherfucker up and down in everything he's done. He has made me
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=99.3s	99.3	 so much money. It's like owning the publishing rights to the YouTube back catalog. This is how
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=105.6s	105.6	 prolific this guy is. It's like owning the Beatles back catalog, right? You're like Michael Jackson.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=112.0s	112.0	 So David Sachs, though, no, all kidding aside, David Sachs is one of the most incredible people
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=116.3s	116.3	 that we know. One of our closest friends, big bit of a background on David. He almost became a lawyer,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=125.9s	125.9	 but dropped out of law school after going to Stanford and worked with Peter Thiel at PayPal.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=135.0s	135.0	 And was a chief operating officer there, left PayPal, moved to Los Angeles, unsuccessfully
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=143.7s	143.7	 kept his virginity, found a way to not get laid as a movie producer in Hollywood, which seems to be
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=147.9s	147.9	 impossible. But David found a way of doing it. Produced the movie, one of the best known
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=156.5s	156.5	 movies of that generation called Thank You for Smoking. Then moved back up here, started Jeannie
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=164.3s	164.3	 Pivoted, started Yammer, sold that for more than a billion dollars to Microsoft, and became during
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=173.1s	173.1	 that time, frankly, one of the most unsung heroes of company founders and was a prolific investor in
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=182.7s	182.7	 some of the most well-known iconic businesses of this last generation, Airbnb, Uber, Slack.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=191.4s	191.4	 The list goes on and on and now is the co-founder of Kraft Ventures, which is essentially
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=198.2s	198.2	 David's early stage venture business where he helps a lot of really great companies
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=205.6s	205.6	 get to the next level and frankly, the level that he's been playing at for a while.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=210.3s	210.3	 Despite all of that, again, I just see him as a show pony.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=214.6s	214.6	 Yeah, some money printing machine. If you can get in on that fund, if you can get in on those
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=219.1s	219.1	 companies, you're going to do well. Sax is an operating machine. Welcome to the program.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=223.7s	223.7	 David Sax. Welcome to the pod.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=225.5s	225.5	 Thanks for having me. How are you holding up? Sax, just personally, family, everything,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=231.7s	231.7	 companies, just generally psychologically, how is this impacting you?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=237.6s	237.6	 I think we're all fortunate to be safe and we started paying attention to the virus,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=248.8s	248.8	 I guess, in February because of Twitter tech. There are a bunch of people on the tech ecosystem
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=256.0s	256.0	 who started tweeting very alarming things in February or even going as far back as January 30th.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=263.9s	263.9	 I didn't know for sure if they were right, but some of them were friends of mine,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=266.4s	266.4	 and so we were to get seriously and we started doing work from home, I think, on March 1st.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=271.8s	271.8	 We've all been self-isolated since then and fortunately, everyone has been safe.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=279.4s	279.4	 Holding up pretty well. Saxiput, tell everybody on the pod our group chat and basically what it is,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=292.5s	292.5	 what we do on that group chat and what you think about it.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=298.2s	298.2	 Basically, our extended poker group, which is about, I don't know, it's probably about
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=304.6s	304.6	 20 players who rotate in and out of our poker game. We have a chat group and we used to just
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=310.2s	310.2	 talk about cards and stuff like that, but very rapidly, it became a place to share information
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=316.3s	316.3	 about the virus and the response and what was going to happen. The remarkable thing is that
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=321.8s	321.8	 whatever we talk about ends up becoming, it's like everyone else has figured it out about a
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=326.9s	326.9	 week or two later and I think it has helped us stay about a week or two ahead of the curve on
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=331.0s	331.0	 this thing. Has it generally been mentally reassuring or has it amplified your anxiety
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=337.0s	337.0	 talking about it all the time in that chat? Well, the interesting thing is that we have
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=343.7s	343.7	 people in that chat who are very optimistic. We have people who are very pessimistic. We
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=347.6s	347.6	 have people in between and then we have people who swing around quite a bit. I think you get
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=353.5s	353.5	 all the perspectives. I guess my view of the future is that very hard to try and figure out
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=360.3s	360.3	 what's going to happen. You have to think about it in terms of scenarios. The chat group helps
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=368.1s	368.1	 understand what those scenarios might look like. Where would you describe each of us then on the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=374.6s	374.6	 positive, negative and then swingy? You're in which camp? Are you swingy?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=379.9s	379.9	 So I think the three basic scenarios are V, U and L. Jason, I would describe you as a V.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=391.7s	391.7	 I think Chamath is closer to the L which is the most pessimistic and then the U is sort of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=400.0s	400.0	 in between. I sort of swing between the U and the L but I also understand the case for the V.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=412.4s	412.4	 Those initials really refer to the shape of the recovery to come and how quickly we'll come out
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=417.5s	417.5	 of this. David, before we drill down into your beliefs on the future, let's talk about the past.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=424.4s	424.4	 What do you think this entire episode has shown us, whether it's from a public health perspective
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=433.1s	433.1	 or an economic perspective, but how would you summarize your view of the world as it's been
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=438.6s	438.6	 revealed to you in the past two months? I think that
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=445.8s	445.8	 we live most of our lives during these relatively calm periods and then our lives get redefined by
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=458.6s	458.6	 these apocal events and we're not really wired for this rate of change. I think it was Lenin
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=469.6s	469.6	 who said something like there's some decades when nothing happens and there's some weeks where
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=474.5s	474.5	 decades happen. I think that's basically what's happening here. The last thing that was like this
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=483.0s	483.0	 was 9-11 where you woke up that morning, saw the Twin Towers coming down on TV and you realized
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=490.3s	490.3	 that we were now in a different era. Something like that's happening here as well just in
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=495.9s	495.9	 slower motion. What do you think the government did right and what do you think that the government
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=503.6s	503.6	 did wrong? Limiting the flights in from Wuhan or China was a good initial step, but after that
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=515.1s	515.1	 it seemed like the response was very slow and disbelieving and incredulous. We've seen this
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=523.9s	523.9	 basically everywhere. The initial response of just about every country with a few notable exceptions
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=532.2s	532.2	 in Asia that had previous experience with SARS, but what we've seen in just about every country
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=537.8s	537.8	 is that nobody believes it's going to happen to them until it happens to them. Then even in the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=543.8s	543.8	 United States, it's like no one believes it's going to happen in their city until someone in
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=551.0s	551.0	 their social network gets the virus and then all of a sudden they take it seriously. There's almost
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=556.0s	556.0	 been this slow-moving train wreck where you see it coming and people are just a little bit too slow
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=561.5s	561.5	 to react. The problem is it's all about the doubling time. If the virus doubles every two or
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=569.8s	569.8	 three days in the absence of any action at all, maybe even doubles every day in a very dense city
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=576.3s	576.3	 like New York City, just waiting two or three weeks can make a thousand X difference.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=584.2s	584.2	 Somewhere between 10 X and a thousand X difference depending on the doubling time,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=588.4s	588.4	 whether if you wait two weeks or three weeks. I saw an article on, there's a bunch of articles
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=594.0s	594.0	 now talking about why has New York been hit so hard and California has been relatively mild.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=601.4s	601.4	 The articles were saying California only declared shelter in place one week ahead of New York. How
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=607.8s	607.8	 can it be doing so much better? They're looking for all these different causes and explanations.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=613.9s	613.9	 Even one week makes a huge difference. New York's been hit about 12 times harder than California,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=621.0s	621.0	 but if the doubling time is just two days, one week is a 12 X difference. That's how the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=629.1s	629.1	 exponentiality works. Being at a week or two weeks or three weeks behind the curve is incredibly
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=636.1s	636.1	 costly. How do you break down local government versus federal government and the action there?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=643.6s	643.6	 Is America's architecture with states' rights and powers a benefit in this case or
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=652.1s	652.1	 is it a negative? We did see the blue states take it very seriously, the red states take it
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=656.4s	656.4	 less seriously, the red states have a lot more distance between individuals, the blue states
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=661.1s	661.1	 tend to be coastal cities, they're more dense. Maybe you could handicap for us the spread of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=667.0s	667.0	 the virus with the layer on top of it of local governments and the political climate we're in.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=673.1s	673.1	 Yeah, I think the decentralized nature of the American system is both a blessing and a curse
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=678.5s	678.5	 in this type of situation. The curse is that it's been very hard to create a unified national
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=685.0s	685.0	 strategy, we're doing lockdowns piecemeal and so the lockdowns get thwarted as people move around
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=693.1s	693.1	 between areas that are not locked down and start new outbreaks. Very hard to control the virus that
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=699.5s	699.5	 way. We're also not able to act in the authoritarian way that we saw China act in Wuhan to control the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=708.6s	708.6	 virus very early on. But the blessing of decentralization is that it's allowed
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=715.6s	715.6	 the governors of states to react and it's allowed private companies to react and it's allowed
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=720.1s	720.1	 entrepreneurs to react and you see a lot of people helping in different ways and that can make up for
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=731.6s	731.6	 having a more ineffectual centralized response which isn't likely to work completely in a country
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=738.9s	738.9	 the size anyway. Do you think that the health apparatus of the United States did its job and
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=748.2s	748.2	 where do you think the areas of opportunity are to improve? Well, if you're talking about the health
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=756.2s	756.2	 system, it seems like the health system has done a great job in reacting to the virus in terms of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=764.6s	764.6	 hospitalizations, adding hospital beds, adding ICU capacity. Even in New York, it looks like,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=772.5s	772.5	 I think Cuomo just said today, that they've got ICU capacity, they've got hospital beds. I think
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=778.2s	778.2	 the hospital system has done a great job rapidly creating more capacity. We haven't seen a situation
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=784.5s	784.5	 like in Italy or even the UK where they're literally rationing ventilators and making
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=791.0s	791.0	 horrible triage decisions about who's going to get a ventilator and who's not. We haven't seen
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=796.8s	796.8	 those types of horrors in the US. But if by health system we mean the FDA, the CDC, the WHO, which is
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=805.8s	805.8	 part of the US system, but we do rely on them to some extent, you've just seen, I think, amazing
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=815.0s	815.0	 malpractice or negligence. If they were a pharma company, I think they'd be sued. You have on the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=821.1s	821.1	 CDC website things that, I haven't checked it today, but as of a few days ago, are just blatantly not
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=827.6s	827.6	 true. Saying that you only needed a mask if you were actually taking care of a person with COVID-19,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=836.8s	836.8	 that standing, say, a three-foot distance was sufficient. That was an acceptable amount of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=844.4s	844.4	 social distancing, even if the other person is coughing or sneezing, and that's not true.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=850.0s	850.0	 They're just saying things that weren't true. And then the CDC and the surgeon general until
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=858.3s	858.3	 basically the last few days were telling us that masks didn't work, weren't effective, didn't. And
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=864.6s	864.6	 then now they've flipped to recommending them, but they're still not required. And I just wrote a
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=872.1s	872.1	 blog today that I published about half an hour ago that- I thought the best part of that blog
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=876.4s	876.4	 post, by the way, it's up on Medium, and Sax has tweeted it and I retweeted it, David, is what you
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=882.0s	882.0	 said at the end, which is we're taking the most draconian measure, quarantining people, which we
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=887.5s	887.5	 use this softer term, shelter in place, but it's a quarantine. Call it what it is. You're not allowed
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=892.3s	892.3	 to leave your house except under rare circumstances. But we won't do the basic
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=897.8s	897.8	 thing of wearing the mask. It makes no sense. And Chamath, I think you had a really interesting
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=901.2s	901.2	 question early on here, which I think we should all circle back on one more time, which is,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=906.2s	906.2	 what does this reveal? In this kind of a crisis, and I love the statement of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=911.1s	911.1	 Sax where some decades nothing happens and then a week you have a decade happen.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=917.0s	917.0	 The thing that I think is the big takeaway for me is handicapping who you can trust
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=923.1s	923.1	 and what people's agendas are and how they behave in a crisis, because there are a group of people
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=928.6s	928.6	 building models. And what is the motivation of somebody who builds a model? We think about,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=933.3s	933.3	 we all get pitched as investors, or when we worked inside of companies, we build models,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=937.2s	937.2	 and we know the models mean nothing. They're made by humans. And what's the motivation of somebody
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=941.0s	941.0	 building a model in today's climate that then people adopt that model and there's life or death?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=948.8s	948.8	 What would you handicap? Would you go conservative? Would you go aggressive? Would you lean into
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=952.9s	952.9	 people dying in the case of supporting the economy? And so there's the model makers,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=959.1s	959.1	 there's the government, local and federal. You have the media who are trying to get clicks in
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=965.0s	965.0	 some cases. You have a capitalist who are trying to protect their book and their bets.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=970.8s	970.8	 How do we all look at and think about people's agendas and the CDC having an agenda,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=976.1s	976.1	 the local government and the model makers having an agenda? Shamath, maybe you could take that one.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=981.4s	981.4	 I think that the masks issue is actually the most instructive thing in this whole debacle.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=990.6s	990.6	 And the reason is that there was pretty obvious data very early on that it was
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1002.0s	1002.0	 something that had unknown but pretty useful upside and absolutely zero deleterious downside.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1011.3s	1011.3	 If you were thinking about risk management, and I gave you some options, option one is do nothing.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1017.7s	1017.7	 Option two is here's some drugs that you can take prophylactically and I don't really know
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1024.7s	1024.7	 either the efficacy or the long-term damage to a broad-based population of people taking them.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1030.9s	1030.9	 And option three was a piece of cloth over your nose and mouth.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1037.0s	1037.0	 For 10 cents.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1038.4s	1038.4	 And apparently at a minimum it prevents other people from smelling your bad breath,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1043.5s	1043.5	 but at a maximum it prevents projectiles of disease, glade and spit getting into your
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1050.2s	1050.2	 orifice. Death vapor.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1051.8s	1051.8	 Causing you to die. Yes.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1053.6s	1053.6	 And we couldn't agree that that was a reason. Why? Why? Why? Is this? It was the agenda here
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1060.6s	1060.6	 because they didn't want people buying up the masks and not going to healthcare workers.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1065.8s	1065.8	 Why couldn't we agree on something this simple? Because it was never about the N95 masks. You
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1071.3s	1071.3	 could have worn a cloth mask. A tea cloth could have covered it up and given you 70% efficacy.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1077.6s	1077.6	 This has everything to do with incentives and everything to do with your other question as
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1082.6s	1082.6	 well, which is like, you know, how, why do modelers behave the way that they do?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1088.3s	1088.3	 All of this is about being taken seriously. And so to be taken seriously, you have to understand
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1094.4s	1094.4	 the incentives in the game that you're playing. So for a modeler and a forecaster,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1100.4s	1100.4	 the incentive is all around being conservative because that's how you're taken seriously.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1106.1s	1106.1	 There's nobody that has any upside in showing a model that shows 10,000 people dying.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1113.2s	1113.2	 All of the attention and the gravity with which you're taken and the attention that you get
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1119.9s	1119.9	 is when you first put out a model that shows that 2 million people could die, which is what
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1123.8s	1123.8	 Imperial College did. And that eventually you walk it back and you walk it back. And after
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1129.5s	1129.5	 the actuals exceed the forecast, then the data converges on what actually happens. And you see
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1137.8s	1137.8	 that these models were woefully inaccurate. It's the same with why the CDC or the WHO are just so
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1145.0s	1145.0	 completely incompetent because the incentives in those organizations are essentially to play
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1151.0s	1151.0	 their game. And that game is not one of public health, but it's one of politics.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1155.7s	1155.7	 Right. And so you have these people fighting each other over political territory and the right to
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1162.8s	1162.8	 basically make decisions versus the actual substance and the validity of the decision.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1167.0s	1167.0	 David, does that correlate with your thinking and then superimpose the media on top of that?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1173.0s	1173.0	 Yeah. I mean, so I think there's a couple of things going on. One is that there is a huge
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1178.2s	1178.2	 culture clash going on between the people who need conclusive scientific proof before they're
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1187.0s	1187.0	 willing to recommend any course of action. And then between other people who are willing to take
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1193.7s	1193.7	 a more experimental approach to try things to iterate the way that we do in startup land
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1199.3s	1199.3	 when confronted with company existential issues. And the latter approach is smart when
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1210.3s	1210.3	 there's a lot of upside in trying something and not much downside. And the other approach of this
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1219.0s	1219.0	 scientific, the pseudo scientific sounding approach where you're constantly demanding
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1223.1s	1223.1	 conclusive evidence, it's actually people pretending to be smart, you know, with people
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1227.4s	1227.4	 who want to sound smart, but it's actually a pretty dumb approach. And so we've seen this
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1233.4s	1233.4	 like culture clash playing out over and over again. You know, and so experts should read it back to
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1241.5s	1241.5	 you, David. Experts are afraid to do something experimental with low downside because they have
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1247.0s	1247.0	 reputations and they want to sound smart. Whereas entrepreneurs or maybe capitalists or other
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1252.4s	1252.4	 problem solvers or perhaps even gamblers are going to say there's no downside here.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1256.1s	1256.1	 What's the downside to putting a mask on? Nothing. Let's try it. The same thing with
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1259.1s	1259.1	 chloroquine and the Z pack. Very early on, people were saying like Elon and other folks in our circle,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1265.6s	1265.6	 why not just do it? Hold on a second. Hold on a second. Chloroquine. Let's not put that in the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1269.3s	1269.3	 same category. Okay. Why? Because it's a drug, Jason. Yes. It's a drug for malaria. Okay. But
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1274.3s	1274.3	 you have on the spectrum. You have zero evidence. So no, no, Jason. I'm taking it if you're sick
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1278.4s	1278.4	 already. No, we still don't know. Right. Let's be clear. Okay. So masks is a wholly different
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1285.5s	1285.5	 thing. This is why I said it that way. Yeah. You should, the minute you start to add drugs,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1289.7s	1289.7	 you come off as a armchair epidemiologist and anybody reasonably smart can poke holes in your
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1296.2s	1296.2	 theory and you sound like a moron. You cannot sound like a moron by telling people to wear cloth
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1301.6s	1301.6	 over their nose and their mouth. Okay. But the next step, if you were in the hospital and you've
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1306.6s	1306.6	 been diagnosed and they said, Hey, the doctor says you might want to try this. There were people who
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1312.2s	1312.2	 were saying, don't even try it. And there was a direct correlation when Trump said he was behind
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1316.5s	1316.5	 it. It seemed like the media and everybody were like, this is the worst idea ever. No, no, no.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1320.6s	1320.6	 But, but, but this is your point, which is that the incentives of that game are to politicize
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1325.4s	1325.4	 things versus think about what's in the best interest in the public health interests of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1329.1s	1329.1	 either the United States or the world. But aren't we in agreement to try it? If you were, if you were
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1334.3s	1334.3	 in the ICU and they said, Hey, you want to try this? You wouldn't try it.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1337.4s	1337.4	 No, but this is the problem is like the posture of the American political infrastructure is broken
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1342.7s	1342.7	 and moments like this shine a light on how broken it is. Because as David said,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1349.0s	1349.0	 all of the testing and iteration, all of those things are must haves in peacetime.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1356.9s	1356.9	 They are nice to haves in wartime. Right. You don't have a time to walk around and test fire
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1362.5s	1362.5	 a gun and make sure this works and that works. The enemy is in front of you. You shoot and you
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1368.6s	1368.6	 fire and you aim later. Yeah. And in that posture, we have to have a set of rules that contemplate
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1377.0s	1377.0	 giving people at the ground floor on the border of, you know, where their life is at risk,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1383.3s	1383.3	 the right to make a decision as well informed as it can be about what they can try to do to
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1389.8s	1389.8	 save their life. And doctors need to be equally empowered. And, you know, we've effectively done
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1395.1s	1395.1	 that, but we just did it in fits and starts. And in that there is all of this noise that delays
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1401.1s	1401.1	 the right decision, which is not that hydrochloroquine is good or bad, but it's that here's all the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1406.2s	1406.2	 published data into the hands of the doctor who can actually read it, understand it so that he or
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1411.5s	1411.5	 she and the patient can make a decision together. Yeah. Agreed. Sax, what are your thoughts on
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1417.6s	1417.6	 chloroquine and the Z pack and that whole sort of unraveling of this is the miracle,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1423.0s	1423.0	 it's not the miracle it's worth looking at and how that debate occurred, let's say on the Twitter
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1429.1s	1429.1	 and then also in our stream when we were talking. Well, Trump was not the first to
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1434.9s	1434.9	 embrace the potential of hydroxychloroquine. In fact, we were talking about it in our chat group
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1440.2s	1440.2	 before, you know, it became national news. Of course, once he did embrace it, it became political
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1446.4s	1446.4	 football and a lot of people want to prove him wrong. And so now it's hard to have a conversation
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1450.6s	1450.6	 about it without it becoming political. But the, you know, the argument for hydroxychloroquine
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1455.8s	1455.8	 really started with some research papers that showed that it worked in vitro, basically in test
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1460.8s	1460.8	 tubes against the virus. And it worked against SARS, you know, which is a related sort of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1469.8s	1469.8	 category virus. I'm not I'm not an expert or anything. This is just sort of, you know, me
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1474.8s	1474.8	 telling you what I what I know is a consumer information. And so it was not crazy to think
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1481.8s	1481.8	 this is something that should be tried in the context of COVID-19. Now, we don't know if it's
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1487.3s	1487.3	 going to work or not. I saw an interesting presentation by UCSF and their working theory
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1493.9s	1493.9	 on it is that hydroxychloroquine plus ZPAC might have some impact in the first week of the virus
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1502.2s	1502.2	 when before peak viral replication takes place. And this might help interfere with the virus
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1509.5s	1509.5	 replicating. Once you're in respiratory distress, distress, though, and it's in your lungs, you have
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1514.0s	1514.0	 to you're into a different phase of this and they don't believe that. They think you need to look at
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1520.9s	1520.9	 other things. So so it sounded like this was potentially valid treatment in week one less
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1526.6s	1526.6	 effect in week two. And, you know, by week three, when you're in severe ARDS, you know, it's you
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1532.6s	1532.6	 got to find other things. So, you know, in terms of like what the right policy is, you know, this,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1541.0s	1541.0	 you know, I'd be in favor of the right to try. I mean, ultimately, we should let patients and
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1544.7s	1544.7	 doctors make this decision together. And and so, you know, I think the FDA did the right thing,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1551.6s	1551.6	 giving emergency trial authorization to doctors to be able to try this with their patients. And
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1561.4s	1561.4	 what I think is happening is, is that there's your sort of rapid decentralized information
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1567.8s	1567.8	 sharing happening among doctors and hospitals. And, you know, I think they're getting to the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1573.1s	1573.1	 right answer here. Okay, do we do we feel comfortable moving on to financial implications of this? Or
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1579.0s	1579.0	 are there things about the modeling?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1583.0s	1583.0	 On upside down side, I agree with Jamat that hydroxychloroquine is a little bit more
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1586.9s	1586.9	 complicated. Mass are sort of the really unambiguous one. Because it's just so easy.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1592.6s	1592.6	 There's so little down. Just cloth. It's cotton. Right? You literally could put a bandana on your
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1599.7s	1599.7	 underwear. Yeah, you could use your own underwear and just put it across your face. I mean, this is
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1603.1s	1603.1	 what's so insane that David's right. I remember having this argument with someone because on the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1609.5s	1609.5	 CDC website, as David said, he would only recommend it not as a preventative measure for you. But if
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1616.0s	1616.0	 you were old, you should use a mask only if you were treating somebody with COVID-19.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1621.2s	1621.2	 There's such an element of these authorities trying to manage us, you know, I can, you know,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1626.6s	1626.6	 I really hate that. I mean, I do think that they thought about, will we create a run on mass?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1636.0s	1636.0	 They don't want to tell us the truth because they're afraid of some of the consequences
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1638.7s	1638.7	 of telling us the truth. And, you know, I hate that feeling of being lied to by public officials
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1645.0s	1645.0	 because they're trying to manage us. I'm willing to be infantile by people that are smarter than me.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1651.4s	1651.4	 Yeah. So can you give us a list of the four people you think are smarter than you? Go ahead,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1654.6s	1654.6	 Trimoth. Give us who are those four people? I am not willing to be infantile by nameless
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1659.0s	1659.0	 bureaucracies. And I think that Americans deserve to not be infantile. I mean, for the amount of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1665.7s	1665.7	 money that we pay and the amount in taxes and the amount of power that we give folks, the one thing
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1672.6s	1672.6	 that I'm realizing through this whole thing is like, you know, it is true in some respect that
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1678.3s	1678.3	 the countries that had some level of authoritarian management did well, but it's also true that the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1685.0s	1685.0	 countries that had robust civil services filled with people who are at the top of their class
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1690.6s	1690.6	 also did well. Singapore, South Korea, where it is a stature, it's a point of pride to work for the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1696.8s	1696.8	 government, where it's some of the best paying jobs. Japan. And so, you know, one of the things
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1701.8s	1701.8	 that I realize is like, career bureaucrats really do infantile Americans in a way that's really
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1710.3s	1710.3	 unproductive and unhealthy. I mean, you know, doesn't it surprise you and kind of like perturb
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1716.3s	1716.3	 you that the ex-head of the FDA is way more prominent and out front with his point of view
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1723.1s	1723.1	 than the current head of the FDA? I mean, what the hell is going on? I think what we know is going on
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1729.8s	1729.8	 is, I mean, Trump was elected and he dismantled some of this and the system was broken.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1735.7s	1735.7	 No, I think that that's unfair. And, you know, I'm not a big Trump supporter, but I think it's
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1740.6s	1740.6	 unfair to pin it on him. The reality is maybe he defunded or underfunded a bunch of things, but
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1746.2s	1746.2	 the hollowing out of our institutions have been happening for 40 years. And it started with Reagan,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1752.4s	1752.4	 to be clear, because we tilted the scales towards free market trickle-down economics, where
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1758.9s	1758.9	 government was viewed as a stop for really smart people to inject themselves into industry at
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1765.8s	1765.8	 higher levels, or it was a place that, you know, capable people would never go, because capitalism,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1772.5s	1772.5	 the way that it was structured, was set up in such an aggressive, tilted manner for those that were
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1777.8s	1777.8	 capable. And unfortunately, it hollowed out the government from people that were really strong of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1786.6s	1786.6	 character in a broadly speaking kind of way. And so what happens is that then bureaucracies form,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1792.1s	1792.1	 the incentives change, and you get what you've gotten right now, which is, again,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1801.1s	1801.1	 it is a point of argument on something as simple and frankly idiotic as a mask.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1808.2s	1808.2	 Okay, let's move on to talking about the economy. And David, you've been quite a heretic
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1817.1s	1817.1	 on Twitter, because you decided to engage in the one conversation you're not allowed to have,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1825.1s	1825.1	 which is talking about people's livelihoods, as opposed to their lives. You can only keep one
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1831.8s	1831.8	 thought in your mind, as far as the kind of woke far left is concerned, and the Twitter mobs,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1837.9s	1837.9	 you can only talk about people and life and death, you can't talk about their livelihoods. But
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1841.4s	1841.4	 you've been talking and starting a dialogue on how you would structure teams in a startup for
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1849.1s	1849.1	 how do we deal with the crisis versus how do we go back to work. So explain how you would do this
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1854.1s	1854.1	 if this was a startup company, if you were doing it on an entrepreneurial level, and what you think
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1860.0s	1860.0	 the road looks like, let's start with San Francisco Bay Area, and then we'll extrapolate to
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1865.3s	1865.3	 the most acute area in America, New York. Yeah, well, the big question that everyone's
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1871.9s	1871.9	 going to be asking by the end of April is what now? Because I do think you're already seeing this in
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1878.1s	1878.1	 the New York data, that quarantines work. But that shouldn't be a total surprise to us. Historically,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1884.6s	1884.6	 quarantines have always worked to me. Quarantines were the way that people dealt with plagues when
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1889.0s	1889.0	 they didn't have any technology. The problem is just they're incredibly costly. And if the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1895.1s	1895.1	 quarantine goes on for months as our only way of dealing with the virus, then we could be looking
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1900.2s	1900.2	 at the depression. So the question really is, once we've arrested the exponentiality of the virus,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1908.2s	1908.2	 and I think we have to do that first. But once we've arrested the exponentiality,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1914.8s	1914.8	 the big question is going to be, well, now how do we get out of this? And what I worry about is that
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1920.2s	1920.2	 the daily update mentality, I think it's great that our leaders are giving us these daily updates,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1926.6s	1926.6	 showing that they're showing a bias for action, which I think is good. But I worry that we're
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1933.6s	1933.6	 not going to be ready, that this precious time that we're buying with quarantine is not going to
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1938.8s	1938.8	 lead to a better plan in May, because no one's really working on that plan. They're just working
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1943.8s	1943.8	 on sort of the triage, the immediate response, making sure that hospitals around the country
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1951.8s	1951.8	 have the ventilators and beds they need. And we put in the orders-
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1954.9s	1954.9	 Why is it, David, that people can't keep these two parallel processes in their mind at once?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1961.4s	1961.4	 You've been attacked viciously on Twitter, the media attacks, anybody who brings this up is only
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1965.9s	1965.9	 caring about capitalism when in fact, you need to do both plans. You need to figure out how
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1972.1s	1972.1	 people get back to their livelihoods and we avoided depression, which would kill more people
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1976.6s	1976.6	 ultimately, right? I mean, I think there's consensus about that, whether it's depression
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1980.1s	1980.1	 or suicide, et cetera, or people not being able to feed themselves or have nutritious food and
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1986.5s	1986.5	 healthcare. So why can't people put these two things in their mind at once? And then let's
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1992.6s	1992.6	 talk about the actual plan. If you were planning and you were the mayor of San Francisco, or you
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=1997.0s	1997.0	 were in Trump's cabinet and they said, okay, David, you make the plan for the Bay Area to go back to
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2001.3s	2001.3	 work, take us through your one, two, three, and then we'll throw it to Jemma. What I would do is,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2006.9s	2006.9	 I would do what I would do in a company for a product release is I'd have, in a company,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2012.2s	2012.2	 I'd have a product manager for the 1.0 release and I have a different product manager for the 2.0
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2015.9s	2015.9	 release, because it's very hard for somebody to be all in on two different leases, which have two
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2021.6s	2021.6	 different schedules. So I think the team that we have right now, that's basically concerned with
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2028.0s	2028.0	 the immediate response, the triage, they should keep doing what they're doing, make sure that
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2034.2s	2034.2	 the country is reacting the right way, that it has all the supplies they need, that they're
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2038.3s	2038.3	 berating 3M into giving us more PPE or whatever it is. But I think that there should be a separate
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2043.4s	2043.4	 team, kind of a czar for the 2.0 response, which should be focused on how do we create a new system
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2053.0s	2053.0	 that gets us out of lockdown, but doesn't re-trigger the exponentiality of the virus.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2060.0s	2060.0	 And I think that person and that team should be ready to slide the new system into place in May.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2066.8s	2066.8	 I don't know if it's beginning of May, end of May, or whatever, but sometime in May,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2069.9s	2069.9	 they should be ready to slide that new system into place so that this precious time we're buying
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2074.6s	2074.6	 isn't wasted. Give us your one, two, three. One is masks, obviously, I would think.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2080.6s	2080.6	 Masks are the total no-brainer.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2081.9s	2081.9	 So that's number one. Give us your two, three, four, if you want to riff here a little bit.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2086.6s	2086.6	 Yeah, I mean, the other elements of the plan that people keep talking about, it's rapid,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2093.0s	2093.0	 ubiquitous testing. I mean, you have to have same-day results. This business of it taking two,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2098.8s	2098.8	 three, four days in the lab, the problem is if someone is infected, they could be passing it on
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2103.4s	2103.4	 during that time. You don't isolate them in time. So we have to have massive ubiquitous same-day
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2110.2s	2110.2	 testing along with contact tracing so that when you do find out that somebody's got it, you can
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2115.7s	2115.7	 not isolate not just them, but all of their contacts. That's a system that seems to have
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2119.8s	2119.8	 worked in South Korea. And I mean, those seem to be the pillars.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2127.2s	2127.2	 And is quarantining the high risk during this first phase of the rollout with testing,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2136.1s	2136.1	 social distancing and masks, that seems to be the no-brainer, I would add. Fourth bullet point,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2142.2s	2142.2	 which is if you're obese, diabetic, asthma, or some combination of those and over 60 and or over
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2148.7s	2148.7	 60, you got to stay home now and you cannot be in touch with anybody who's out and about and part
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2153.8s	2153.8	 of that first wave to go back to society. Right. We know that certain segments of the population
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2160.2s	2160.2	 are at much higher risk than others. And so part of having a more fine-tuned response to the virus
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2165.6s	2165.6	 other than just shutting everything down would say, well, let the people who are at very, very low
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2170.1s	2170.1	 risk go back out still wearing masks and having the right protocols and hygiene and all that stuff.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2178.1s	2178.1	 But you keep the high-risk population isolated rather than shutting down the entire economy.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2182.9s	2182.9	 All right. Chamath, if you're on the board of directors and David was the czar of the May
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2187.4s	2187.4	 Plan to go back, what questions would you have for him and how critical can you be of his plan?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2194.6s	2194.6	 Let's make this as if we were actually in charge. Chamath, savage David's plan.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2199.4s	2199.4	 Well, I probably would push David to consider a more aggressive approach here. And this is something
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2209.9s	2209.9	 that I've talked about before. Jason, you and I have talked about this on the podcast before, but
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2214.1s	2214.1	 we need a biological Patriot Act. I know that it's unpalatable for people on the left for
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2221.5s	2221.5	 certain reasons and people on the right for other reasons, but it just doesn't matter what they think.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2228.2s	2228.2	 It was reported today, by the way, that the CDC and the task force at the White House is considering
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2233.3s	2233.3	 immunity cards, but a much more beefed up version of them. These need to be cards that have
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2242.2s	2242.2	 some kind of chip inside them that are non-hackable and issued by the government.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2248.6s	2248.6	 But what I would push David to think about if he was the czar of getting back to work is the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2254.0s	2254.0	 following, which is I agree with the broad-based testing. I think that you need to have some kind
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2260.9s	2260.9	 of wristband that allows you to be inside of certain green zones in every single
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2269.1s	2269.1	 town in the country that allow you to be back to normal. But there also needs to be red zones
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2277.0s	2277.0	 where you cannot. We need to have a very, very quick way of restarting a quarantine if there are
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2285.4s	2285.4	 hotspots that develop. But all of it needs to be supported by broad-based testing and a biological
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2291.9s	2291.9	 patriot act. We do need to have immunity cards. The simple basic reason is that it is the only way
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2299.0s	2299.0	 that one can prioritize the economic salvation of the US economy. Because I think once we have paid
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2305.1s	2305.1	 the cost from the public health perspective, which we are doing at the end of this quarantine in
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2311.9s	2311.9	 flattening the curve or crushing the curve, our immediate focus has to be in resuscitating the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2318.5s	2318.5	 GDP of this country. Because otherwise the number of deaths and the amount of pain
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2325.7s	2325.7	 that is caused by economic destruction will far outnumber the number of people that die from this,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2331.6s	2331.6	 which is tragic already. The only way that I can see for us to do that in a scalable way is with
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2339.6s	2339.6	 an immunity card, a biological patriot act. So I would be pushing David to think about
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2346.0s	2346.0	 that and rip the bandaid off and get that done.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2347.8s	2347.8	 And David, I would also push you on thinking about quarantining not just at home, but maybe by region
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2356.3s	2356.3	 and hot zones. So if we know the New York corridor or the Northeast corridor is severely infected,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2362.4s	2362.4	 nobody in or out of that corridor without a visa without, and I know this is a very touchy issue
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2368.2s	2368.2	 well in terms of civil liberties, but until we're through this, I don't see why people from New York
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2372.7s	2372.7	 need to go to Florida without maybe a rare exception or something to that effect. So if we
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2379.0s	2379.0	 know we got California out of it or if SoCal is still in the thick of it, but NorCal isn't, maybe
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2385.4s	2385.4	 we have some level of testing required to get on a flight to come to San Francisco or to leave New
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2391.8s	2391.8	 York. So those are two punch-ups. How would you look at those, David, as the news are of getting
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2397.5s	2397.5	 back to work?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2398.4s	2398.4	 I think it's all on the table. I mean, I like the green zone, red zone idea. I like using immunity
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2404.9s	2404.9	 information. We've been talking in our chat group for I think a month about these blood serology
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2409.8s	2409.8	 tests. I tweeted, I took one of those tests weeks ago, I think like three weeks ago before the FDA
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2416.8s	2416.8	 even approved it. And I tweeted about it. So yeah, I think all that I think the immunity cards,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2422.2s	2422.2	 I think we should use all that information. I mean, it would all be on the table. I think
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2426.0s	2426.0	 all these ideas need to be tied together into a coherent system. And I'm worried that our approach
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2438.2s	2438.2	 to date has been so ad hoc that we're not going to have a coherent system ready to go as a
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2445.2s	2445.2	 replacement to shutdowns in May when we need it.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2448.3s	2448.3	 As part of this, you talked before about how you didn't like to be managed. I think we all agree
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2454.2s	2454.2	 we're being managed and massaged because they really do not want to even talk to us about going
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2462.2s	2462.2	 back to work in May or what happens because they're afraid that we're going to jump the gun and
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2466.0s	2466.0	 we're all going to just go to Chrissy Field or, you know, whatever park or Central Park and just
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2471.4s	2471.4	 throw a giant party. But people are not stupid. There is a certain self-preservation here that
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2476.9s	2476.9	 should be inherent in all these discussions, which is, you know, any reasonable person watching the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2483.1s	2483.1	 death toll in New York does not want to leave their house. And so why can't, how much of the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2491.4s	2491.4	 lack of discussion about this issue do you think, David, is because people are afraid to treat people
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2497.4s	2497.4	 like adults because they think they're going to just go out to Chrissy Field or, you know, Dolores
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2502.0s	2502.0	 Park?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2502.6s	2502.6	 No, I mean, I think you're right that there was this long period of time where the authorities
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2507.5s	2507.5	 were just trying to get everyone to buy into the idea that the virus was dangerous. They needed to
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2511.4s	2511.4	 shelter in place and they didn't want to hear any views that appear to be contradicting. I don't
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2520.4s	2520.4	 think they were contradicting it. You know, I remember when the Imperial College study model
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2526.3s	2526.3	 came out and they said that 2.2 million people would die in the U.S. and I tweeted that. I thought
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2529.9s	2529.9	 that number was insane. It was fear-mongering. And I think, you know, that's turned out to be the case.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2537.6s	2537.6	 But, you know, people responded, well, good. I mean, even if it is fear-mongering, we need to make
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2542.2s	2542.2	 people afraid because otherwise they won't do the right things. I guess that's true in a situation
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2549.4s	2549.4	 in which we're relying on everyone's voluntary compliance to engage in a quarantine or to wear
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2554.8s	2554.8	 masks. And I guess part of the response here is to figure out what action items should not be
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2561.4s	2561.4	 voluntary that we just need to do in order to get past this.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2565.4s	2565.4	 Trimathio, your thoughts?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2567.2s	2567.2	 I think that getting back to work is going to be much, much more difficult than people think.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2573.8s	2573.8	 I think that in the absence of a vaccine, which looks like at best 18 to 24 months from now,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2583.8s	2583.8	 we will never get to 100% of where we were before or at least the potential to be at 100%.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2589.1s	2589.1	 And so I just think that over the next two years, we're in for a tremendous amount of difficulty.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2596.6s	2596.6	 And this is sort of where, you know, I'd like to shift the conversation. I think that,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2601.1s	2601.1	 you know, we've now poured between the United States government and the Fed, almost $10 trillion.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2609.9s	2609.9	 We smeared it into the economy. And only three cents of every dollar has gone into people's
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2617.4s	2617.4	 pockets. And I think we're hoping that the other 97 cents somehow trickles down into their pockets
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2623.8s	2623.8	 in some way, shape or form. Now, when you look at that 97 cents, half of it was, you know, things
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2630.4s	2630.4	 like propping up the commercial paper market, propping up the repo market. But it's also been
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2636.5s	2636.5	 things like propping up investment grade debt, propping up high yield debt. And I have a real
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2642.2s	2642.2	 issue with this because I think that if we're going to take two years to get back to normal,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2647.2s	2647.2	 and I really do think it's two years because Jason, a lot of the fears that you expressed,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2652.6s	2652.6	 people will have as lingering doubts and will prevent them from being at 100%, which means
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2657.4s	2657.4	 businesses will not be at 100% until you can get an injection and know that you're protected.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2663.8s	2663.8	 We're doing an enormous amount of damage because we're taking trillions of dollars and flooding it
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2668.4s	2668.4	 into the economy in a way that's just not going to be effective. And I don't think that we're
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2673.6s	2673.6	 taking enough time to really think through these things. So, you know, on the one hand, while I
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2677.9s	2677.9	 appreciate the velocity, or not the velocity, the intention, you know, like I think Jerome Powell's
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2685.7s	2685.7	 commentary, I applaud, which is like, you know, he's saying all the right things, which is,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2690.9s	2690.9	 we will do everything possible. But the lending program to companies has been haphazard and
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2696.9s	2696.9	 difficult. But it did get started in three weeks, and some people have gotten money in week four of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2701.0s	2701.0	 this. I mean, it's pretty incredible. Now, you know, the numbers that I've read is that,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2704.9s	2704.9	 you know, on average, the loans are turning out to be sort of like, you know, in the tens of thousands.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2710.0s	2710.0	 And on top of that, you know, David and I talked about this in the group chat, but the math makes
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2715.8s	2715.8	 it so that you're better off furloughing or letting people go than you are taking PPP, which means
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2720.8s	2720.8	 that a lot of this money may never get taken. And so, you know, but again, all of that is still a
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2728.8s	2728.8	 small rounding error. We're talking about less than 10 cents on the dollar. 90 cents of the dollar
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2734.4s	2734.4	 have gone into areas that will not really touch an average American citizen. And I think that's just
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2742.4s	2742.4	 fundamentally wrong, because the trickle down theory of all of this, you know, was started 40 years ago,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2749.0s	2749.0	 and we can see now that it doesn't work. David, any thoughts on the stimulus?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2753.7s	2753.7	 Well, I think what's happened is that we have a 30% hole in our economy right now. You've got,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2760.0s	2760.0	 you know, like a 15% unemployment rate going to 25 or 30, maybe as high as that. We don't know yet.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2768.5s	2768.5	 You've got a, you know, we think that GDP is going to contract in the next quarter by a quarter to a
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2774.9s	2774.9	 third. And so you've got this giant hole in the economy. And what the Fed and Treasury are trying
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2781.8s	2781.8	 to do is plug that hole for a period of time until we can get through this health crisis. And
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2790.6s	2790.6	 if the crisis only lasts a few months, maybe they can hold it all together. But I do worry that if it
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2795.6s	2795.6	 lasts longer, it's going to slip out of their hands. And the result is going to be a cascade
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2803.5s	2803.5	 of defaults and bankruptcies and effectively a great unraveling of our economy.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2811.1s	2811.1	 Yeah, I think that I think that though, in fairness, like this is where I think bankruptcy,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2815.4s	2815.4	 it's almost viewed as a four letter word, but it's not. And in many ways, the bankruptcy process
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2822.3s	2822.3	 could actually be the saving grace of American business in this moment. And the reason I say
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2827.5s	2827.5	 that is that it allows in a bankruptcy, these companies to discharge a lot of the debt. And
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2834.0s	2834.0	 we could set up a mechanism where these bankruptcies could be done in a way where, again,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2838.4s	2838.4	 similar to taking PPP, you don't let people go, you know, a percentage of the cap table must go
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2844.6s	2844.6	 to the pensions if they have them. A certain percentage of the cap table must go to employees.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2850.6s	2850.6	 And then the remaining percentage goes to the secured bondholders. And so the existing equity
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2855.5s	2855.5	 holders and the unsecured bondholders would effectively not be made whole, but in that all
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2863.4s	2863.4	 the employees would be. And if you combine that with a UBI program where you put, look,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2868.9s	2868.9	 in the United States economy, only $8 trillion is wages. So, you know, we could do so much
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2878.0s	2878.0	 if we had given every United States citizen their absolute salary of 2019 right now,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2885.4s	2885.4	 we'd still have two trillion left to bail out companies.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2888.6s	2888.6	 And everybody could take a year and get paid, like literally have a year sabbatical
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2892.7s	2892.7	 and be paid. Well, I think what it really does is it guarantees the chances or it maximizes,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2897.8s	2897.8	 sorry, the chances of a consumer led recovery. Like the United States has never been an economic
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2904.9s	2904.9	 system that's been vibrant because of government spending or other things. We've always been
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2909.3s	2909.3	 vibrant because we've been consumer led. It's consumer consumption. And it's customers of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2914.9s	2914.9	 companies buying products that they need or want that drive the economy forward. And if you think
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2920.6s	2920.6	 about our largest customer base, they are the U.S. population. And by guaranteeing their revenue,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2927.5s	2927.5	 so to speak, you actually allow them to then spend once they get out of quarantine.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2933.4s	2933.4	 And you'll see them spend even in fits and starts. In this way, you know, you could spend
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2938.9s	2938.9	 $500 billion buying a bunch of junk debt. I really don't see as a reasonably, you know,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2945.8s	2945.8	 savvy participant in the markets how it actually helps anything. I think all it does is it saddles
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2951.8s	2951.8	 you and me and all of our listeners with a bunch of toxic junk debt that eventually has to get sold
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2958.3s	2958.3	 by the Fed, as David said, in the grand unraveling. And it would be more healthy.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2961.8s	2961.8	 Back into the market. Wouldn't it be more healthy, David, to allow a certain percentage of these
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2967.4s	2967.4	 companies, the weaker ones, to fail so that the stronger ones could then pick up those employees
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2972.2s	2972.2	 and there'd be some stability? And I'm curious if you'd think that we're going to be living in a
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2977.6s	2977.6	 world where, and people have speculated about this, maybe some, the individual consumer changes
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2983.8s	2983.8	 their perspective. And maybe people come out of this crisis with a different worldview.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2989.0s	2989.0	 I don't necessarily subscribe to this, but Chamath, you do. We've had this conversation.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2993.1s	2993.1	 So I'm curious, David, if you think the American consumer will forever change and maybe they
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=2998.6s	2998.6	 upgrade their phone half as much, they, you know, spend less, and they basically live a more modest
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3005.8s	3005.8	 rural lifestyle and people maybe stay out in Tahoe or Colorado, wherever they went during this
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3010.7s	3010.7	 crisis. What are your thoughts? Well, you're really talking about depression era values. And
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3017.0s	3017.0	 the problem is if we acquire those values via depression, that would be a pretty bad outcome
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3022.2s	3022.2	 here. So, but yes, that could happen. You know, I think where I agree with Chamath is that I think
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3029.9s	3029.9	 that even though the federal government, the Fed, the Treasury have a tremendous amount of firepower
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3037.1s	3037.1	 in a situation like this, it may not be inexhaustible. And we have to kind of pick and
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3041.8s	3041.8	 choose and prioritize who's going to get aid and who's going to get bailouts. And right now it
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3049.2s	3049.2	 feels a little bit willy-nilly, you know, and it feels like under those circumstances, the bailouts
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3058.0s	3058.0	 default to the people who are politically connected and powerful, as opposed to the workers,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3065.5s	3065.5	 the pension funds, you know, the main street small business owner who's worked their whole
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3070.0s	3070.0	 life on a business now all of a sudden is underwater. And I think, you know, it's,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3076.7s	3076.7	 it's, it's gonna be very hard to get the the the aid to the right people. Look, in the last four
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3083.4s	3083.4	 weeks, in the last four weeks, oh, sorry, in the last week, this is an incredible set, I apologize,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3089.4s	3089.4	 in the last week, the amount of distressed debt in the US has quadrupled in one week to a trillion
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3097.4s	3097.4	 dollars. Right. So as an example, to David's point, that's much more visible to Jay Powell,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3105.6s	3105.6	 or to Steve Benutian, in the Fed and at the Treasury, then, then it is that, you know,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3113.1s	3113.1	 1000s and 1000s of nameless anonymous small business owners.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3116.3s	3116.3	 Who owns that debt? Can you give an example of what that debt would be for the listeners?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3121.0s	3121.0	 When you say distressed debt? I mean, I mean, so, you know, I mean, a fallen angel today is Ford. So
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3127.1s	3127.1	 we were not to pick, we're not going to pick on Ford, but we're just going to point to it as a
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3130.2s	3130.2	 well known company. So this is a car manufacturer. They employ hundreds and hundreds of 1000s of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3136.6s	3136.6	 people in very important political states, you know, Michigan, Ohio, I think, Tennessee, probably.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3150.1s	3150.1	 But Ohio and Michigan, obviously critical states. And they, you know, issue debt into the market to
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3157.4s	3157.4	 fund, you know, building factories or buying equipment, who buys that debt,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3162.3s	3162.3	 pension funds by the debt, family offices by the debt, hedge funds by the debt.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3170.4s	3170.4	 Now, those guys were giving out a coupon, and they were paying, let's just say, four or five
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3176.2s	3176.2	 or 6% a year on this interest. But now, because of all this economic uncertainty, people think that
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3181.7s	3181.7	 their ability to pay that back has gone way down. And so now they have to issue debt at much higher
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3188.5s	3188.5	 interest rates. And the existing debt has a much lower credit quality. It's effectively like you
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3194.8s	3194.8	 having a credit card. And, you know, American Express calling you and saying, Jason, I think
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3200.1s	3200.1	 the odds of you paying your credit card balance have gone way down. So I'm increasing your interest
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3204.0s	3204.0	 rate to 24% from 17%. Yeah. And then I get another credit card to pay it off. And, and so essentially,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3210.7s	3210.7	 what's happened is the Federal Reserve has decided to become that next credit card issuer.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3217.0s	3217.0	 What could go wrong?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3218.8s	3218.8	 Instead of doing it for you, they're doing it for companies, but not for you.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3223.0s	3223.0	 And the question is, is that okay? Well, at some level, companies like Ford should be saved,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3228.0s	3228.0	 because I think these are iconic businesses that employ hundreds of thousands of people. And there
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3233.3s	3233.3	 are critical linchpins in the economy, right? Because they have a massive supply chain network.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3238.1s	3238.1	 And, you know, they're really important for many other things, beyond just the economics that they
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3243.4s	3243.4	 themselves represent. But there are better ways to help Ford. You could lend Ford as much money
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3252.2s	3252.2	 as they needed to meet their short term obligations, similarly to the way that the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3256.7s	3256.7	 Federal Reserve would allow a bank to borrow from the from their window. And I think that that's a
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3262.2s	3262.2	 very reasonable approach. The question is really when the Fed then basically acts as a buyer of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3268.5s	3268.5	 last resort and obfuscates the price of these bonds, and essentially is saying the American
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3274.1s	3274.1	 taxpayer will own these bonds for the foreseeable future. If you think that at some point, those
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3280.2s	3280.2	 bonds that you bought for, you know, 90 cents on the dollar are worth 90 cents on the dollar,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3286.8s	3286.8	 then everything is okay. But if there's a chance that 90 cents goes to 70 cents,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3292.3s	3292.3	 the people that really eat that cost are us in the short term and our children in the medium.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3298.7s	3298.7	 I have a silly question. It's obviously not my wheelhouse, corporate debt like this.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3303.6s	3303.6	 Why wouldn't there be a clause that if they didn't pay back that 90 cents on the dollar
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3310.0s	3310.0	 that the American government bought it for, it converts into equity in the company?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3313.3s	3313.3	 It's a great question. Because the Federal Reserve has chosen to go and essentially the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3320.2s	3320.2	 equivalent of open an E-Trade account and step into the markets by themselves and just buy.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3327.0s	3327.0	 So they're buying bonds and they're buying individual bonds and they're buying indices
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3332.2s	3332.2	 that control or that have exposure to certain bonds. What they are not doing is going directly
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3336.6s	3336.6	 to these companies and negotiating, essentially saying, I will give you four or five billion
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3342.2s	3342.2	 dollars. And what I want you to do is retire that old debt and replace it with this new instrument.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3348.3s	3348.3	 And here are the terms of this new instrument. The United States tax bearer gets 3% or 4%
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3353.4s	3353.4	 warrant coverage of the company. You must make sure that the pension holders are made whole.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3359.3s	3359.3	 The no-brainer. Why wouldn't we have those clauses? It's a basic blocking and tackling that
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3363.9s	3363.9	 seed funds have. David Sachs, why is this not a no-brainer?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3369.8s	3369.8	 I think we've got to get a good deal for taxpayers. I mean, Jamoth has said it. I've heard
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3374.1s	3374.1	 Mark Cuban say it pretty eloquently. I've even heard Trump say that we have to get a good deal
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3379.0s	3379.0	 for taxpayers. I just think that they're in such an emergency. They're not really taking the time
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3384.7s	3384.7	 to do that. They're trying to do things they can do immediately. Yeah. The forgiveness of this money,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3392.1s	3392.1	 to me, is the thing I don't understand. Why is any of it forgivable? Why isn't all of it just
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3397.6s	3397.6	 a 10-year or 20-year long loan that converts into equity over some tranches?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3402.9s	3402.9	 But Jason, this is why if you're going to haphazardly fire trillions of dollars out of a
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3408.7s	3408.7	 bazooka, why not give more than three cents on the dollar to average Americans? Why not put it
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3414.3s	3414.3	 into the pockets of every single bank account? You know who knows how much everybody made? The IRS
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3421.0s	3421.0	 does. The IRS has a mailing address for everybody. The IRS either gets a check or mails a check to
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3426.5s	3426.5	 every single taxpayer in the United States, which also-
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3429.8s	3429.8	 And they also have direct deposit for half of the people.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3432.8s	3432.8	 So there's nothing stopping us from saying, well, you know what? Why don't we do 10%? 10 cents of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3439.1s	3439.1	 every dollar? Why don't we do 15 cents of every dollar to Americans? I really think this is the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3443.8s	3443.8	 way that you limit the amount of waste that's going to happen. So the intention isn't wrong.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3452.4s	3452.4	 We shouldn't castigate people for wanting to put money in the system, as David said, to plug the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3456.5s	3456.5	 hole. But we can't be so haphazard as to not think about the moral hazards we're creating
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3463.9s	3463.9	 and try to fix them in real time. And so this 10 trillion has already gone out the door.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3469.4s	3469.4	 But if the next trillion or two don't touch Americans, I think it's going to create an
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3475.8s	3475.8	 enormous amount of damage. We've only given people a few weeks of a lifelong and they need more. And
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3482.9s	3482.9	 you can't tell companies that they can have effectively a limitless lifeline,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3489.3s	3489.3	 but not the individuals. Because I do think at some point, companies will find a way
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3494.9s	3494.9	 to get out of these loans and or break the covenants with not much repercussion.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3500.4s	3500.4	 Okay. I want to wrap with two sort of not doomsday scenarios, but I want to touch on politics. And I
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3506.4s	3506.4	 also want to know, in the chance that this quarantine goes on for May and June, in other words,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3511.4s	3511.4	 San Francisco says, you know what, we're going to keep going. And New York says we're keeping
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3516.5s	3516.5	 going. And we're talking about not just April being in quarantine, but May and or June. And we're
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3524.0s	3524.0	 looking at June 1st or July 1st. What are the chances, David, that people say, you know what,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3530.6s	3530.6	 I am a free person. I want to take my life into my own hands. I want to make my own decision.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3535.7s	3535.7	 I'm going out. I'm going to go surfing. I'm going to do this. And we have this social unrest. And
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3540.5s	3540.5	 how do politicians handicap that in this new world? I think that could happen. I mean,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3549.0s	3549.0	 particularly among young populations who are not at risk as much, you know, for the relatively
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3557.9s	3557.9	 younger, healthier people who don't have comorbidity factors could say, look, I've got a
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3562.6s	3562.6	 one in 1000 chance or, you know, or less of dying if even if I do get this. And I'm just going to
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3569.8s	3569.8	 take that chance. But it's all the more reason why I think we need a strategy to get out of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3575.0s	3575.0	 lockdown. That already includes the idea of letting out these these people who are at much lower risk
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3582.6s	3582.6	 and, and isolates the people who are at higher risk. And against the you have anything to add
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3588.9s	3588.9	 to that, Jamath, that kind of doomsday scenario or that eventuality? Well, I think that you're
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3595.0s	3595.0	 very right, Jason, that I don't think we're going to get out of lockdown until June 1 at the earliest.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3603.4s	3603.4	 And I think that's in California, I think nuisance posture is basically that if April looks like the
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3608.6s	3608.6	 curves are decaying, it's going to be mid May to late May before he lifts this thing. I don't know
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3613.2s	3613.2	 if I can handle this. And but, but it's also important that that we understand, like, you know,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3620.2s	3620.2	 we just talked about companies, the only entity that's in even worse shape than companies and
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3625.8s	3625.8	 people are states and cities and counties. Yeah, their debt is incredible. They have no revenue.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3631.8s	3631.8	 And massive revenue, massive costs, and their nonprofits. And think of the, the, you know,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3638.1s	3638.1	 the garbage collector, the fireman, the police officer, the teacher, these are like, these are
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3643.4s	3643.4	 the backbones and the pillars of our community. It's such a good thing that we were so resilient.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3648.1s	3648.1	 We thought ahead and built up massive surpluses in our tax bases. Oh, wait, we didn't do that.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3654.6s	3654.6	 Well, there, there, there were, there were some provisions to do that, these rainy day
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3659.0s	3659.0	 funds, but those are going to get exhausted. And, you know, we're going to have to bail
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3663.0s	3663.0	 those guys out as well. So this is what I'm saying, which is that when you're pumping in
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3667.3s	3667.3	 trillions of dollars haphazardly into the capital markets, before you think about people,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3672.6s	3672.6	 or you think about the states and cities and communities in America, I just think it's a
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3676.4s	3676.4	 recipe for disaster. Let me ask this even more simply, David, under what circumstance would you
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3681.8s	3681.8	 be willing to go back to our poker game on a Monday night and have six, seven of us around a table
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3688.7s	3688.7	 sharing a meal and playing cards for six hours? Well, if there was, if there was a treatment for,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3697.0s	3697.0	 for the virus, so that you knew that if you got it, you weren't going to die, that would be a big deal.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3701.8s	3701.8	 Okay, that's the obvious one after that. Yeah, there's a Russian led aspect to
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3706.2s	3706.2	 the virus right now, or even if your odds are low, you know, you still want to take the chance.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3713.5s	3713.5	 I think the next thing that would probably help would be that if we had this rapid ubiquitous
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3718.1s	3718.1	 testing, so I could know that the people who are in the room with me are all tested, and we're all
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3727.7s	3727.7	 negative, and you know, they could repeat the test on a frequent enough basis that we can all trust
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3733.2s	3733.2	 in the result. That would make a big difference, I think. All right, let's wrap with politics. All
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3739.1s	3739.1	 of this is occurring in an election year. Bernie is out of the race. Biden is doing a daily
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3748.3s	3748.3	 webcast. Trump's ratings are through the roof, as he is more than willing to let us all know in his
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3755.1s	3755.1	 abhorrent, narcissistic way that his ratings are just tremendous right now in the middle of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3761.0s	3761.0	 thousands of Americans dying a day. But we have to touch on this because elections are how we
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3770.3s	3770.3	 govern and make these decisions is by who we put into these positions. So what do we think?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3779.0s	3779.0	 And let's just make odds here. Odds that Trump wins again, odds that Biden wins. If you had to
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3786.1s	3786.1	 lay the odds, if you had to give it a percentage or you want to set a line, what do you think?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3791.0s	3791.0	 What are your thoughts, David? I always think that these things are basically a coin flip,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3797.8s	3797.8	 I mean, this far out. I mean, right now, it seems like, you know, Trump's ratings have never been
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3805.0s	3805.0	 higher. He's pulling relatively well. And Biden just seems completely irrelevant. But if we're
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3811.6s	3811.6	 still dealing with the virus by November, if we've cycled in and out of lockdown, if we have kind of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3817.1s	3817.1	 an unresolved situation, if the economy is in a very, very deep recession or depression,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3823.0s	3823.0	 I think, you know, it's, it's up for grabs. Chamath, I think that if, if there is a v shaped
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3830.9s	3830.9	 recovery of any kind, Trump will win in a landslide. Right now we are in a v shaped recovery,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3837.4s	3837.4	 the market has come back. No, we're not. No, we're not. Well, if you use the market as a market.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3843.1s	3843.1	 Now the market is the market is completely decoupled from Main Street. And so what Wall
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3848.2s	3848.2	 Street does is irrelevant right now. What I mean by recovery is what happens on Main Street. Okay.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3853.3s	3853.3	 Because if you have 16, 17, 20, 22% unemployment, I mean, you could feel the prancing dog and he'll
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3861.6s	3861.6	 be Trump. So I think that the president needs a massive victory here. So what does the game
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3874.2s	3874.2	 theory say the game theory probably says that he'll try to force people to go back to work as
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3880.1s	3880.1	 quickly as possible. And if there's even a mode to come a shred of evidence on some kind of,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3887.4s	3887.4	 you know, therapeutic, they'll, you know, drum it up like it's, like it's a cure and try to confuse
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3893.5s	3893.5	 people that there's a vaccine. But I think he needs that because in the absence of that, again,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3899.2s	3899.2	 I just go back to how difficult will it be to start real life? I think it's going to be difficult.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3903.8s	3903.8	 And I think in that people won't have a lot of patience for the fact that, you know, the debt
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3910.9s	3910.9	 will have ballooned. Deficits will have ballooned trillions of dollars will have gone out the door.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3917.2s	3917.2	 And people will be meaningfully struggling going into election day. I don't think that that helps
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3922.0s	3922.0	 Trump at all. And, you know, by the way, and we'll talk about this in our next podcast,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3925.9s	3925.9	 because we should probably get an economist to talk about it. But, you know, what is putting
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3930.6s	3930.6	 $10 trillion or whatever the final number is, it'll probably be 20 trillion, you know, one,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3935.9s	3935.9	 one times us GDP. What does that do to the economy? What does that do to long term inflation?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3941.4s	3941.4	 Like if you see what's happening, Japan did and they went through a lost decade or two.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3946.3s	3946.3	 No, I think the best better example is what happened in China, which is a combination of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3950.4s	3950.4	 fiscal and monetary stimulus in 2009 and 10. And the results are basically a lot of fake growth,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3956.6s	3956.6	 and massive inflation. And so, you know, it's probably useful to debate that in the next,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3964.4s	3964.4	 in the next pod. What are the chances it creates a lot of risk for Trump?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3968.6s	3968.6	 Do what are the chances of a dark horse candidate? Yeah, in on the zero zero. So it's Biden for sure.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3975.8s	3975.8	 Yeah, it's no chance. Barring a Biden health emergency.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3980.9s	3980.9	 I mean, yeah, he is. Yeah. He's, you know, not a spring chicken. So,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3986.2s	3986.2	 so either person, either person gets the coronavirus. It could be.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3991.1s	3991.1	 Yeah. Well, no, I look, if anything happened to him. Yeah. Yeah. We shouldn't even talk about
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=3996.6s	3996.6	 these possibilities. I don't want to sound like, you know, it's not like no one wants this to
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4000.6s	4000.6	 happen. But look, I think Jamoth is right. They're not going to replace the head of the ticket absent
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4006.0s	4006.0	 you know, something health wise happened. What is your game theory then on how Trump will play this?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4011.4s	4011.4	 Because in Chumot's mind, getting back to work earlier, makes it seem like we're getting back
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4019.4s	4019.4	 to normal. And he did that. But a politician might also say, you know what, I think there's
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4025.0s	4025.0	 a chance of the second wave. So I want to keep it closed until June or July 1st, then time it.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4030.3s	4030.3	 And I know this sounds incredibly cynical that a elected official would make health and economic
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4036.2s	4036.2	 policy decisions on their reelection. But that is the reality we live in. Is it not?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4040.6s	4040.6	 Sure, of course. I think the next big political debate is going to be around this. What now?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4046.6s	4046.6	 You know, yes, the quarantines have arrested the exponential, the virus, but how do we get out of
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4052.4s	4052.4	 them? And, you know, Trump's gonna have to make a decision about when and how we get out. And he's
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4061.2s	4061.2	 going to be eager to get out of lockdown to restart the economy. But on the other hand,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4066.6s	4066.6	 if he mistimes it, and we cycle, you know, the virus then takes off again, and we cycle back into
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4072.1s	4072.1	 another lockdown, that's very dangerous for him politically, too. So he's got a needle to thread
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4080.0s	4080.0	 there. I agree. I agree with Jamath that if this ends up being V shaped, Trump is a shoo-in. But if
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4089.4s	4089.4	 it ends up being a recession, a deep recession or depression, if we end up, then I think the question
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4095.4s	4095.4	 is going to be, does he appear to be more in the, is he a Hoover or is he more involved in an FDR?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4104.6s	4104.6	 Explain that for people listening.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4106.8s	4106.8	 Well, I mean, so Hoover took the blame for the Great Depression, FDR gets elected in 1932.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4114.2s	4114.2	 We're still in the Great Depression in 1936, but he gets reelected, you know, and because he's seen
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4122.4s	4122.4	 as a man of action. He does these fireside chats, and he's doing things. And I do think that, you
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4130.2s	4130.2	 know, Trump kind of pivoted from initially being a little bit flat-footed on the virus
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4136.6s	4136.6	 now doing these daily briefings. And I think the American public is giving him credit for action
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4141.5s	4141.5	 right now. And so obviously, if those actions work, I think he gets reelected. And if they don't work,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4148.2s	4148.2	 the question is, you know, does he get blamed for that? Is he a Hoover or is he an FDR?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4156.2s	4156.2	 All right. On that note, I encourage everybody to wear masks, social distancing. And for those
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4164.2s	4164.2	 people in the audience who are startups and investors, keep the faith, keep investing,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4170.2s	4170.2	 keep starting companies. Never a bad time to start a great company in my mind. And Chamath,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4176.7s	4176.7	 any final thoughts? Here we are. It's, what is today's date? I know it's April. I think it's
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4182.6s	4182.6	 somewhere around the 10th. Am I even close? It's Friday, right? April 10th. Let's just make a
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4189.1s	4189.1	 decision to be all in on masks. All in masks. All in on masks. And take it into our own arms. We
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4199.0s	4199.0	 don't need to be told that these things make sense. They make sense. You're an idiot if you
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4202.6s	4202.6	 think otherwise. David, closing thoughts? Oh, keep watching. Any other thoughts?
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4206.7s	4206.7	 Totally agree with that. That was my blog today. We shouldn't have to make it the law, but I think
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4213.0s	4213.0	 we should because there's still people who aren't adopting it, but it's the lowest cost thing we can
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4217.1s	4217.1	 do. And if you look at the Asian countries that have controlled the virus, every single person
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4223.1s	4223.1	 wears a mask when they go out in public. Every single person. It's a simple no-brainer. Give
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4228.2s	4228.2	 people a thousand dollar fine if you're not wearing a mask. Give them a warning first and
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4232.2s	4232.2	 hand them a mask. Like literally the cop should have masks and they should hand them to you,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4235.4s	4235.4	 say put this mask on. And if I see you again, you get a thousand dollar fine.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4240.2s	4240.2	 The post office should put one or a number of these in everyone's mailbox. This is the first
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4246.1s	4246.1	 step to having a more fine-tuned policy than just quarantine. And if we can't even get this right,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4252.5s	4252.5	 then I fear for what's coming next. There's a great execution idea. The mail carriers,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4260.3s	4260.3	 every mail carrier leaves them. And then you could also get the private sector. Do you tell
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4263.4s	4263.4	 every UPS FedEx driver the government gives them those masks? Amazon. Amazon. They just all have
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4270.2s	4270.2	 it. Hey, if Jeff, somebody clip this and send it to Jeff. Jeff, if you want to do a mitzvah,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4273.6s	4273.6	 give all these masks to the drivers and just leave masks on everybody's doorstep and forget
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4278.8s	4278.8	 about Trump and whatever government official is going to drag their heels on it. Go ahead,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4282.2s	4282.2	 you do it, Jeff Bezos. And hey, how great was Jack giving away a billion dollars? I mean,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4286.4s	4286.4	 we saw him get barbecued on social media, but what a strong move, huh? And he's going to...
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4290.8s	4290.8	 Strong.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4291.3s	4291.3	 He put it in a Google sheet. He's like, here's a Google sheet.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4294.2s	4294.2	 And made the sheet open. I mean, it's the strongest move ever. It's like, you know, everybody,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4298.3s	4298.3	 you know, I've always been very skeptical of philanthropy because I feel like it's
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4303.0s	4303.0	 a dahlia of the established rich in North America because they like to have their names on things.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4309.1s	4309.1	 And here's a guy who just basically pwned all of that. I don't need a hospital with my name on it.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4313.8s	4313.8	 I don't need a building with my name on it. Here's a billion dollars. And here's a Google
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4318.4s	4318.4	 spreadsheet to track it, which means I'm going to have zero in overhead and running it. I mean,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4323.2s	4323.2	 it's so strong.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4324.7s	4324.7	 It's literally like, the only thing that could be stronger is if he connected it to a Stripe
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4328.9s	4328.9	 account. And like as he swiped his credit card, it's just so strong. He should put a Zappier that
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4333.8s	4333.8	 tweets it.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4334.4s	4334.4	 I mean, he has a Google doc, which is set so that everybody could read it at all times. I mean, for
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4340.3s	4340.3	 a billion dollars, it's just amazing.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4342.2s	4342.2	 He should start a Slack instance with like each of those nonprofits having their own channels.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4346.4s	4346.4	 By the way, he completely pwned the giving pledge in one fell swoop.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4350.3s	4350.3	 Yes. The giving pledge, which nobody has any, it's pretty opaque. Now it's just like, here it is.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4355.4s	4355.4	 It's basically pretend you're going to give your money away. We don't need to know how much. You
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4361.8s	4361.8	 don't really need to do it. There's no accountability, but we have this fun party.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4364.9s	4364.9	 Once a year we can all hang out and, you know, I haven't signed it.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4371.3s	4371.3	 It's like the giving pledge. Yeah. So stupid. It's like the sign of insecurity.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4377.2s	4377.2	 Saxie poo. Thanks for coming on the pod rain, man. We appreciate it.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4380.4s	4380.4	 Love you. Saxie poo.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4381.3s	4381.3	 We love you. Saxie poo.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4382.4s	4382.4	 Love you. J Cal.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4383.1s	4383.1	 Love you too. Chamath bestie C. We love you. And everybody stay safe. Seriously. And I just
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4389.2s	4389.2	 wanted to close. Wear a mask, wear a mask. And to those people on the front lines, the janitors,
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4394.0s	4394.0	 the Google, the Amazon drivers, Instacart, people in the food supply. You are the best.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4400.6s	4400.6	 It's amazing what you're doing. What a sacrifice. Get the money to them.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4404.8s	4404.8	 Yeah. And seriously give it Amazon. Let us tip those drivers in our.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4409.3s	4409.3	 Get the money to them.
+https://www.youtube.com/watch?v=LBB-rq3_vz8&list=UUESLZhusAkFfsNsApnjF_Cg&index=142&t=4411.3s	4411.3	 For sure. Double the pay. Okay. We'll see you all next time. Bye bye.

@@ -1,0 +1,1216 @@
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=0.0s	0.0	 Hey, everybody. Hey, everybody. Welcome to another all in
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2.8s	2.8	 podcast. We just got the show notes and I'm ripping them up
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=6.5s	6.5	 because the president has the rona. We knew this was a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=11.0s	11.0	 possibility. We had an incredible docket brewing. But
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=14.4s	14.4	 as fate loves irony, we found out on Wednesday night, I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=19.6s	19.6	 believe just in a brief timeline here. Wednesday night, hope
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=24.0s	24.0	 picks his personal assistant got the rona. And then of course,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=29.5s	29.5	 President Trump announced late last night that he in fact had
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=33.2s	33.2	 the rona and that his wife Melania also had the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=38.4s	38.4	 coronavirus. So with us today to discuss all things tech,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=41.5s	41.5	 politics and Coronavirus David Friedberg, David Sachs and
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=45.2s	45.2	 bestie see Chamath Pali hoppitya are with us. I guess maybe we'll
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=50.4s	50.4	 just drop it right to you. Friedberg you you are our
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=53.9s	53.9	 science kid here in the class. What is when we look at the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=60.6s	60.6	 president's physique? He's clinically obese. Technically,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=67.0s	67.0	 I'm not saying that to be cruel, but he's a 74 year old was
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=69.5s	69.5	 clinically obese. And snores Adderall. We don't know that.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=73.2s	73.2	 That's just a claim. But seriously, what what is the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=76.3s	76.3	 prognosis here? And then my I understand he's now got a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=80.9s	80.9	 experimental treatment was just announced an hour ago, the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=83.5s	83.5	 taping of this on Friday afternoon. And of course, we
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=86.4s	86.4	 wish them all the greatest speedy recovery, etc. But let's
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=90.1s	90.1	 get let's get into the facts here.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=91.8s	91.8	 I think the overall mortality rate for someone of his age is
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=96.5s	96.5	 in call it the two to 4% range, right. And for someone with with
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=101.4s	101.4	 you know, he's not known to have diabetes or high blood pressure,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=104.3s	104.3	 but generally you can kind of say there's some risk factors
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=106.4s	106.4	 may be associated. So a couple points, but the reality is the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=110.9s	110.9	 treatment that he got is one that's not available to the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=114.3s	114.3	 public, and is effectively like creating these, you know,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=118.9s	118.9	 taking these antibodies to the coronavirus, and he got eight
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=122.1s	122.1	 grams of this immunoglobulin therapy. That is basically a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=127.2s	127.2	 bunch of antibodies that will eliminate the virus, and they're
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=130.0s	130.0	 not widely available. They're not publicly available, these
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=132.9s	132.9	 treatments. But, you know, based on the early trials and the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=137.8s	137.8	 general experience with using synthetic and, you know,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=140.6s	140.6	 polyclonal antibodies for infectious disease like this,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=144.6s	144.6	 it's pretty effective, and he should kind of, you know,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=148.3s	148.3	 recover pretty quickly, I would imagine. So
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=151.3s	151.3	 him dying would basically be a two outer him getting this
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=154.1s	154.1	 special treatment makes it a one outer if we were talking about
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=157.0s	157.0	 this in poker terms. Chamath, when you when you look at this
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=160.3s	160.3	 turn of events, and you saw the news, what was your first
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=163.0s	163.0	 thought?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=164.2s	164.2	 That it's now basically 100% guaranteed that we will have all
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=171.9s	171.9	 of the most transparent data about coronavirus soon. So for
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=177.1s	177.1	 example, you know, we we've been in this position where we've
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=180.0s	180.0	 been debating hydroxychloroquine, we've been
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=183.0s	183.0	 debating these, you know, all of these different regimens. And the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=188.1s	188.1	 reality is the President of the United States, if he doesn't get
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=192.0s	192.0	 the absolute top notch care, we're all in some ways fucked.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=197.6s	197.6	 So it's it's probably likely that he's going to get the thing
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=201.0s	201.0	 that folks know to work. And then it'll be hard for everybody
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=205.1s	205.1	 else to not want to ask for that. And then it's going to be even
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=208.1s	208.1	 harder for everybody to then not get some version of it. And so I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=212.7s	212.7	 think probably, we're going to de escalate a little bit of mass
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=217.9s	217.9	 stuff, of testing stuff of, you know, what the right course of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=222.4s	222.4	 care is. And, you know, frankly, I'll be honest with you, I hope,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=225.3s	225.3	 you know, I wouldn't vote for him, but I hope he's well, I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=228.3s	228.3	 don't want anything to happen to the guy. And I hope that he
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=232.4s	232.4	 recovers and it you know, he kicks it in the ass and that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=236.4s	236.4	 whatever he took to get better, everybody else can get it to.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=240.8s	240.8	 All right, sex coming around the horn here talking about the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=243.5s	243.5	 political ramifications of this you were feeling that Trump was
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=248.1s	248.1	 likely to lose. But here we are with the October surprise. And I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=252.5s	252.5	 hate to make this handicapping of the election, but this
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=256.6s	256.6	 certainly is going to have some impact. So with your Rain Man
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=260.7s	260.7	 mind, and when you go through this deck of cards here, what is
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=264.7s	264.7	 your brain? How do you assess this as the Rain Man? Is this
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=271.1s	271.1	 going to be a net positive for his election results? A negative
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=276.5s	276.5	 neutral? Handicap this for us in your mind, you must be thinking
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=279.8s	279.8	 through this. And again, disclaimers, we all want him to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=282.9s	282.9	 get better. Nobody wishes him ill. I'm sure some people do, but
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=286.0s	286.0	 nobody wishes him ill.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=287.0s	287.0	 I'm seeing a lot of glee, frankly, on on Twitter. Yeah, a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=291.6s	291.6	 lot of people saying I told you so or karma is a bitch or
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=295.1s	295.1	 something like that. Yeah. You know, sort of implying that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=299.0s	299.0	 Trump getting this was was a moral failing, you know. And,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=304.8s	304.8	 you know, certainly a lot of people are kind of reveling in
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=306.9s	306.9	 it. I think he was certainly careless. I mean, he didn't wear
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=310.5s	310.5	 masks. He said he didn't like to wear a mask. So I mean, do you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=314.0s	314.0	 wear a mask inside your house?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=316.1s	316.1	 No, but if I was in walking around at a debate or something
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=320.5s	320.5	 like that, if I was on an airplane with 20 people, yeah, I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=323.2s	323.2	 would wear a mask. I mean, you know, there were certainly a lot
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=327.0s	327.0	 of precautions around the president. I mean, more than most
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=329.3s	329.3	 people. I mean, any of us could get it from anybody. Yeah. You
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=331.9s	331.9	 know, if you know, our wife happens to go out to meet a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=335.0s	335.0	 friend for lunch or something like that, and then brings it
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=337.1s	337.1	 back. So there's almost no amount of carefulness you can do
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=340.5s	340.5	 to completely avoid this, unless you're willing to kind of lock
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=343.3s	343.3	 yourself alone somewhere. So I just you know, this idea that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=348.9s	348.9	 somehow getting COVID is a moral failing is is what I would take
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=353.4s	353.4	 issue with. It's not it's not altogether unlike the crazy
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=358.1s	358.1	 things that the religious right was saying in the 1980s, like,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=362.4s	362.4	 you know, about AIDS, like when you know, Jerry Falwell said it
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=366.0s	366.0	 was God's punishment or something like that, trying to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=368.5s	368.5	 imply that gay plague. I mean, let's just call it what it is.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=371.5s	371.5	 They basically said they implied somehow that this was, you know,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=375.8s	375.8	 some sort of just come up and see or something like that.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=379.7s	379.7	 Retribution from God.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=380.4s	380.4	 Retribution. Exactly. Exactly. And you know, the virus doesn't
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=383.9s	383.9	 know who it's infecting, obviously, it doesn't target
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=386.3s	386.3	 sinners or whatever. And so I just think that, you know, this
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=390.4s	390.4	 all this this sort of gleeful sort of blaming that's going
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=395.2s	395.2	 around is is inappropriate. And I think it could really backfire
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=399.6s	399.6	 if if Trump rapidly gets better. I mean, if Trump is better in,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=404.0s	404.0	 say, a week, and is hitting the campaign trail again, you know,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=408.4s	408.4	 what what previously will have appeared to be a moral failing
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=411.3s	411.3	 could it could now be argued would be a moral strength since
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=414.1s	414.1	 he overcame it so easily. And, you know, so I think that if he
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=419.7s	419.7	 rapidly recovers from this and hits the campaign trail again,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=423.1s	423.1	 it's going to make him look strong. I think that if he has a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=426.4s	426.4	 hard time with the virus, if it's innervating, the way that I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=429.7s	429.7	 think it took out Boris Johnson, I mean, I've heard British
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=432.4s	432.4	 commentators say that Boris Johnson is not not even the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=435.4s	435.4	 same doesn't have the same level of energy, even now that he did
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=438.9s	438.9	 behind before the virus, then I would think it could really hurt
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=441.8s	441.8	 Trump in the last campaign.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=444.2s	444.2	 Look, we I think we all know people. I'm sure you guys do I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=449.3s	449.3	 do, who have gone through this and they all say the same thing,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=452.8s	452.8	 which is this thing really sucks. Now there are all these people
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=456.2s	456.2	 that say, Oh, it's like dancing on tulips or daffodils. I've
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=460.0s	460.0	 never encountered a single person like that. I see that. I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=464.5s	464.5	 see that maybe on Twitter or a friend of a friend. But all of my
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=468.4s	468.4	 friends who've gotten it, they have really struggled through it.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=471.4s	471.4	 Some of these people are older, some of these people are
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=473.7s	473.7	 younger. Some of these people are healthy. Some of these people
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=476.4s	476.4	 are not. And consistently, they say the same thing, which is
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=479.2s	479.2	 that there's a couple of days where it literally feels like
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=481.4s	481.4	 your chest is being pounded inside you, you can't move,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=485.3s	485.3	 you're just in pain. And then afterwards, the aftermath is
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=488.8s	488.8	 you're at, you know, 50 60 70% of your lung capacity, like it
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=493.1s	493.1	 for a couple of weeks. I mean, Doc says is a friend of ours. And
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=496.2s	496.2	 he was very public with his experience. He tried to avoid
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=499.2s	499.2	 it as best he could. He got hit with it. He got hit hard. And he
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=501.6s	501.6	 said he felt like he was going to die. It was the worst thing
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=503.5s	503.5	 I've experienced.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=504.2s	504.2	 I have friends that still complain two, three, four months
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=507.0s	507.0	 after the fact that they're at 50 60% of cardiovascular
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=509.6s	509.6	 capacity. And, you know, these, these people that I that I'm
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=512.7s	512.7	 specifically thinking about were really healthy going into
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=515.6s	515.6	 Coronavirus. And so I don't know, I just think it's
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=518.3s	518.3	 something none of us want. I don't think you would want to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=521.6s	521.6	 wish this on anybody. Of course, not. Yeah. You know,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=524.8s	524.8	 especially frankly, the President of the United States
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=526.9s	526.9	 as a role. And so I think folks just need to sort of like, class
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=531.5s	531.5	 up here. And hope that we figure out that he gets the best care
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=538.4s	538.4	 and then be we all know what it is and then see that we can get
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=542.2s	542.2	 access to it too. That's that's, honestly, I think that's all we
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=546.1s	546.1	 should be wishing.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=546.6s	546.6	 Jamal, do you see? Do you see the letter they published on
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=548.6s	548.6	 what he's getting? So they
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=551.0s	551.0	 go ahead and read it.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=553.3s	553.3	 The doctor published it was not too long ago, right, Jason, I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=555.9s	555.9	 saw it on your
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=556.4s	556.4	 It just happened like an hour ago. I tweeted it. Yes. He got
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=559.4s	559.4	 eight grams of polyclonal antibodies. This is the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=562.2s	562.2	 regeneron formulation. So basically, they've isolated the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=565.4s	565.4	 antibodies that neutralize Coronavirus that patients have
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=568.2s	568.2	 presented in their body. And then they use recombinant DNA
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=571.5s	571.5	 technology to produce those antibodies synthetically. So
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=574.4s	574.4	 it's a bunch of antibody proteins. And then they turn it
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=577.2s	577.2	 into an injection into a formula that they can put in your body.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=580.1s	580.1	 And you now have effectively neutralizing antibodies. So they
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=583.1s	583.1	 gave him eight grams, which is a pretty high dose. And it gets,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=587.5s	587.5	 you know, goes in intravenously, you can have sometimes an
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=590.8s	590.8	 allergic reaction to that. But it seems like he was fine from
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=593.0s	593.0	 that because they didn't announce an allergic reaction.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=595.4s	595.4	 And then, you know, the the antibodies are now in his
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=598.4s	598.4	 bloodstream and they bind to the virus, any virus that's floating
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=601.1s	601.1	 around immediately gets wiped out, it gets eliminated from the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=603.2s	603.2	 body. So theoretically, this is the way we should treat all
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=606.0s	606.0	 infectious disease. That's my and I do think that by the way, I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=609.2s	609.2	 do, and I've written about this, I think that is the future of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=611.4s	611.4	 infectious disease is we're all going to get a polyclonal
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=614.2s	614.2	 cocktail every year, instead of getting a flu shot, you get a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=616.7s	616.7	 bunch of antibodies to all the new stuff that's emerging. And
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=619.4s	619.4	 it whites everything out.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=620.0s	620.0	 This David, just think about this, there was so much raging
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=624.4s	624.4	 debate that got politicized between the left between the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=627.4s	627.4	 right between different folks of people who believed in
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=630.0s	630.0	 different things around what the right course of care was, there
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=633.2s	633.2	 was no single source of truth. I'll just say this again, when
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=636.8s	636.8	 you treat the President of the United States, and he gets
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=639.3s	639.3	 better, that is canonical single source of truth. I'm sorry, but
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=643.2s	643.2	 there can be no debate after that, that the smartest people
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=646.9s	646.9	 with the access to all of the research, I mean, let's be
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=650.0s	650.0	 clear, you don't think a call went out last night before they
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=653.4s	653.4	 deployed the nuclear warhead stuff to all of the R&D labs and
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=659.2s	659.2	 all the big pharma companies and said, what do you got? And the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=662.5s	662.5	 answer came back at the top of the ticket was this regeneron
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=665.3s	665.3	 cocktail.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=666.1s	666.1	 They had they definitely have made that call before to prep
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=668.7s	668.7	 for this. But yeah, totally agree.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=670.8s	670.8	 Now, when you say it highlights what the future of infectious
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=676.4s	676.4	 disease treatment is and should be, which is that all of us
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=679.5s	679.5	 should be getting a booster shot every year of synthetically
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=683.4s	683.4	 produced antibodies that will counteract any new infectious
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=688.3s	688.3	 disease floating around in the world. And we're getting to the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=690.8s	690.8	 point in the next 1015 years that that should be reality for
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=693.7s	693.7	 everyone.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=694.4s	694.4	 Well, yeah, it highlights that but it also highlights that in
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=697.8s	697.8	 the absence of the most powerful man in the world getting this
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=700.6s	700.6	 sickness, that we're all going to basically bitch and point
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=703.8s	703.8	 fingers about what the right solution is. And so it can't be
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=706.2s	706.2	 the case that the next time there's a crazy illness that's
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=709.5s	709.5	 floating around in society, we need to go and target, you know,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=713.4s	713.4	 five or six of the leaders of the G8, plus the Pope plus this
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=717.1s	717.1	 plus that Beyonce heaven forbid, you know what I mean? Like, this
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=720.5s	720.5	 is crazy. Yeah, this can't this can't be how we find single
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=723.8s	723.8	 source of truth.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=724.8s	724.8	 Yeah. Well, I think if I think, politically speaking, I think
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=728.4s	728.4	 there's a lot of upside here for Trump if he does get better in a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=731.2s	731.2	 week. I mean, if these polyclonal antibodies work,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=734.4s	734.4	 then and he emerges from the White House, you know, fit as a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=737.1s	737.1	 fiddle in a week, he's gonna say the curious here, you know, I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=740.3s	740.3	 was right, we don't even need a vaccine, the curious here, it's
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=742.3s	742.3	 over. And, and all the I told you so is my my foot.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=747.4s	747.4	 Would that be from the truth, David?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=749.8s	749.8	 Well, the polyclonal antibodies work. I mean, it then it's a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=753.3s	753.3	 matter of scaling them.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=754.8s	754.8	 Can it be scale free Berg is easily scalable?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=757.5s	757.5	 Yes. But by the by the I'll just point out the challenge with
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=761.1s	761.1	 this is a lot of people north of 15% will have because antibodies,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=767.0s	767.0	 remember, they're a protein. And if your cells didn't make that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=770.8s	770.8	 protein, they look like a foreign protein when they show
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=773.4s	773.4	 up in your body. And so very often when you get a foreign
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=776.9s	776.9	 antibody treatment like this, you will have some sort of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=779.9s	779.9	 allergic reaction because your body will react and attack that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=782.7s	782.7	 protein. And so it's not as simple as just saying, hey, we
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=786.3s	786.3	 should just scale this up and give it to everyone because the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=788.6s	788.6	 clinical trials that are going on with it are to figure out
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=790.8s	790.8	 what percentage of people what's the right way to treat people
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=792.8s	792.8	 what's the right way to protect them from anaphylactic shock,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=795.3s	795.3	 all that sort of stuff that comes along with this sort of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=797.0s	797.0	 thing. So it's not that simple.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=798.8s	798.8	 Freeberg, we're making it out free.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=800.1s	800.1	 Berg, you would admit that many of those questions, the answer
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=803.4s	803.4	 the answers to many of those questions must have been well in
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=806.8s	806.8	 hand because there's just zero way.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=809.0s	809.0	 Oh, regenerants been running these trials since March 100%
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=812.2s	812.2	 Yeah, 100%. That's right. They well what they I can tell you for
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=816.1s	816.1	 sure. When Trump got this treatment, I guarantee they gave
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=818.5s	818.5	 him Benadryl, and they gave him a steroid shot and they probably
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=823.2s	823.2	 gave him a little bit of cortisone or they had it on the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=824.6s	824.6	 side. Because that's kind of like the standard sort of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=827.0s	827.0	 regimen you would use when you get this sort of, you know,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=830.0s	830.0	 synthesized or or convalescent plasma type treatment. And, you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=834.2s	834.2	 know, he comes out of this thing on the other end and he's fine.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=838.0s	838.0	 But but but that treatment regimen is required. So it's all
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=841.0s	841.0	 you know, you sit down in an ID booth and you get a fucking ID
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=843.6s	843.6	 and you get shots to go along with it. So it's not as simple
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=846.2s	846.2	 as just chipping it out to everyone's home and giving them
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=848.3s	848.3	 that treatment, you know,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=850.1s	850.1	 it only am I correct that only 300 or so people have gotten this
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=854.2s	854.2	 to date? Is that correct with the trial?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=856.4s	856.4	 I don't know the answer to that. I know that convalescent plasma,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=859.4s	859.4	 which is call it the poor man's version of this treatment, which
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=862.2s	862.2	 is instead of synthesizing the antibodies, you're taking the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=865.0s	865.0	 actual antibodies from other people that have had COVID and
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=867.8s	867.8	 recovered, you're isolating those antibodies and you're
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=870.3s	870.3	 injecting them in other people's bodies. So that is what
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=873.0s	873.0	 convalescent plasma is it is effectively a soup of all the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=876.7s	876.7	 antibodies from recovered patients. polyclonal antibodies
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=880.1s	880.1	 is the synthesized version of those isolated antibodies where
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=883.2s	883.2	 we use fermentation systems and bioengineered cells to make
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=886.9s	886.9	 those antibodies, then we isolate them and we use any
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=890.1s	890.1	 chance that the president would make a bad decision here because
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=895.4s	895.4	 he would get to dictate his treatment as a powerful person
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=899.4s	899.4	 like Steve Jobs did tragically. I saw a doctor saying this is
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=903.6s	903.6	 one of the problems with powerful people is that they
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=905.1s	905.1	 actually can, you know, make a bad decision because doctors
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=909.1s	909.1	 will let them have too much of a saying is that possible in the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=912.3s	912.3	 situation you think?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=913.4s	913.4	 I think the answer is no, because they didn't put out a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=915.0s	915.0	 letter saying he got bleach and UV light.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=919.4s	919.4	 So he didn't go with his own treatment protocol. And also,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=924.0s	924.0	 you're good. No, I was just gonna say and also, you know, it
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=927.0s	927.0	 eliminated all of the other less nonsensical, but equally sort
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=931.2s	931.2	 of question mark treatments. And so you know, I think they went
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=934.4s	934.4	 right to the answer, which would only have been really possible.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=937.3s	937.3	 If the best docs basically said this is what we're doing. And I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=940.7s	940.7	 think David mentioned this earlier, that it had been
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=943.1s	943.1	 decided well in advance.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=945.6s	945.6	 I think that's a good insight. Yeah, there's a there's a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=947.5s	947.5	 protocol that was written down months ago, vetted and revetted
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=951.0s	951.0	 probably every week or every month as they get as they got
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=954.0s	954.0	 more data. And so the minute it happened, there was nothing to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=957.7s	957.7	 talk about. And I suspect that that is probably what happened,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=960.8s	960.8	 because there is no way you'd want to be, you know, it's kind
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=963.4s	963.4	 of like being a pilot, like, you follow a systematic set of rules
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=968.2s	968.2	 to deal with the overwhelming majority of boundary conditions.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=971.8s	971.8	 And this seemed like a pretty obvious boundary condition, you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=974.4s	974.4	 would have wanted to have a protocol for well in advance. So
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=977.7s	977.7	 okay, so I want to just do one handicapping here, Sax, I'll have
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=980.9s	980.9	 you take this one off the bat, because this was the chatter on
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=983.5s	983.5	 Twitter. Number one, the first two, I think are just crazy
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=986.9s	986.9	 conspiracy theories, he got it on purpose, or he's lying, put
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=989.4s	989.4	 those aside for a second, you can answer them if you want to.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=991.7s	991.7	 But the third one is, hey, what happens if he's incapacitated
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=995.5s	995.5	 and cannot run? Or, God forbid, he died. And so if he's on a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1001.7s	1001.7	 ventilator, if he cannot leave the hospital, he's an ICU.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1005.2s	1005.2	 It's not even a question.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1006.6s	1006.6	 It's not even a question. The 25th Amendment deals with that.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1008.7s	1008.7	 Yeah. Yeah. So it goes to Pence. And if Pence cannot do it, for
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1012.4s	1012.4	 whatever reason, but he's I think he's already actually
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1014.8s	1014.8	 going to refer to the election, though, what happens to the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1016.8s	1016.8	 election if in the next three, four weeks, he's in ICU? What
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1019.7s	1019.7	 happens then?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1020.9s	1020.9	 Oh, that I don't know.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1022.3s	1022.3	 Well, that's what I would assume is up to the party to to make a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1026.6s	1026.6	 change to his ballot if they wanted to. But I think if he's
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1028.8s	1028.8	 in the ICU, he stays on the ballot.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1031.2s	1031.2	 So we would literally have an election with him on a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1034.5s	1034.5	 ventilator or him. I mean, if he was unconscious, could he? Can
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1040.0s	1040.0	 people still go vote for him?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1041.2s	1041.2	 I think this is a possibility.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1042.8s	1042.8	 I think these are very low probability outcomes. I think
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1045.2s	1045.2	 the most I think the most likely outcome here is that because
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1048.0s	1048.0	 he's got the best care. He's you know, it's probably like at
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1053.4s	1053.4	 least 50% that this is over for him in about a week. And it
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1057.8s	1057.8	 redounds to his political advantage. I think there's
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1060.2s	1060.2	 probably a 40% chance that, you know, he's got more like a three
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1066.2s	1066.2	 or four week case, which I think would hurt him because he's
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1068.4s	1068.4	 been able to campaign. And then there's maybe like a five or
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1071.1s	1071.1	 10% chance of something more serious.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1073.6s	1073.6	 I wonder if he's got if he even if he recovers in a week, the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1077.2s	1077.2	 odds are pretty high that he'll have, you know, a long tail of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1080.3s	1080.3	 fatigue, right? And so if he if he doesn't change his if he
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1084.5s	1084.5	 changes his strategy and just does things remotely and what
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1087.3s	1087.3	 not doesn't do rallies anymore. You know, and he doesn't really
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1092.5s	1092.5	 come out and say he's fatigued. But but there's this behavioral
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1095.0s	1095.0	 change. Does that change things do you think?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1097.5s	1097.5	 I think he needs to be able to campaign and hold these rallies.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1100.6s	1100.6	 I think that's an essential part of his election strategy. But
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1104.8s	1104.8	 also, it's always been his way of, you know, going over the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1108.1s	1108.1	 heads of the media that hates him and talking directly to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1110.4s	1110.4	 people and rallying his base and field testing his ideas. There
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1114.6s	1114.6	 was that period when during lockdowns when he just stopped
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1118.0s	1118.0	 doing rallies for several months, and it really felt like
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1119.9s	1119.9	 he was adrift. So yeah, I think if he can't do rallies, I think,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1125.1s	1125.1	 you know, that could easily swing the election a couple of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1127.6s	1127.6	 points and cause him to lose.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1129.3s	1129.3	 I think saxi poos 100% right.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1131.6s	1131.6	 I was in Indiana last week. And there were a bunch of folks in
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1136.6s	1136.6	 the neighborhood where I was staying. And I was walking my
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1140.8s	1140.8	 dog and they were walking their dogs were all kind of walking
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1143.1s	1143.1	 side by side and they all were ramping up to go to a Trump
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1146.0s	1146.0	 rally. They were super excited about this this moment to go
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1149.7s	1149.7	 hear what he has to say they were they sounded like they were
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1151.9s	1151.9	 kind of in this undecided camp. But they wanted to go to the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1154.6s	1154.6	 rally to hear what he had to say and kind of experience that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1157.1s	1157.1	 Trump moment. It was a real kind of ground level. I think
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1162.9s	1162.9	 proof point for your for your statement around like, you know,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1165.3s	1165.3	 people really need to feel and because that's a big part of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1167.6s	1167.6	 his, his kind of mo is that ground level is and I think it
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1171.6s	1171.6	 was was one of the reasons why his no one saw his election
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1175.5s	1175.5	 coming in 2016 is if you turned on the TV and just listened to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1180.9s	1180.9	 the commentators, I mean, aside from maybe Fox, it seemed like
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1184.4s	1184.4	 everyone just hated him. But if you attended the rallies, you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1187.8s	1187.8	 would see that he was reaching a lot of people, 10s of 1000s of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1190.5s	1190.5	 people at each event and he was flying around doing three
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1193.3s	1193.3	 events a day. tremendously energetic just so yeah, I think
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1197.6s	1197.6	 it's it would hurt him a lot. But look, if he's back on the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1200.8s	1200.8	 stump a week from now, you're probably going to see all sorts
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1203.4s	1203.4	 of people on the right saying, you know, I told you so and God
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1207.4s	1207.4	 healed him and, you know, he must be the chosen one or you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1210.5s	1210.5	 know, who
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1211.2s	1211.2	 we could be, we could be seeing a weekend at Bernie's moment
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1214.3s	1214.3	 here.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1219.6s	1219.6	 Even if he's just tired, they'll prop him up on a big
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1221.7s	1221.7	 stick and hold him up in front of the crowds and then put him
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1223.9s	1223.9	 back in the airplane and fly him back home.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1225.7s	1225.7	 I think I know if he's if he's too tired because you know, he
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1228.3s	1228.3	 gets up there and he talks for like an hour and a half.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1231.1s	1231.1	 He's done two or three. Yeah, it's like an hour and a half is
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1233.5s	1233.5	 short for him. Yeah. So is it possible we could be talking
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1238.0s	1238.0	 about Trump having less energy than Biden in a debate, which I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1242.5s	1242.5	 think is a good segue here. Are there going to be two more
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1245.1s	1245.1	 presidential debates? And what was our take on the absolutely
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1248.4s	1248.4	 embarrassing shit show that we saw on Tuesday night, which was
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1252.7s	1252.7	 supposed to be the topic today that we're going to lead off,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1254.8s	1254.8	 which was the debate, which seems unimportant now.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1257.9s	1257.9	 It feels like a year ago.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1259.7s	1259.7	 How do you expect us to comment on something that happened so
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1261.8s	1261.8	 long ago?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1262.4s	1262.4	 It was 72 hours ago. Come on, people.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1266.3s	1266.3	 Oh my God. It feels like years.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1269.3s	1269.3	 2020 is so exhausting. I think I've aged 30 years in one year.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1273.9s	1273.9	 It's like three decades.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1275.1s	1275.1	 That debate that debate was just a dumpster fire. You know, the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1279.2s	1279.2	 way that I thought about it was wrong. Yeah, not true.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1283.9s	1283.9	 I mean, imagine.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1284.5s	1284.5	 No, I agree. It was a disaster for Trump. It was a disaster for
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1288.3s	1288.3	 Trump.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1288.8s	1288.8	 Go ahead, Sax explain because he's your boy. Are you now not
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1292.2s	1292.2	 going to vote for him after that?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1294.5s	1294.5	 Just to clarify for the audience. I'm not I'm not pro
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1298.3s	1298.3	 Trump. I'm just anti
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1299.6s	1299.6	 Just voting for him.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1300.4s	1300.4	 I'm anti hysteria. I always support the side that seems
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1304.6s	1304.6	 least hysterical to me at any given time.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1306.7s	1306.7	 Did you vote for Trump last election? Yes or no? Or would
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1309.6s	1309.6	 you be comfortable saying that?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1310.9s	1310.9	 I think you'd be surprised if I told you I voted for
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1313.1s	1313.1	 Really?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1313.4s	1313.4	 But okay, so on to the debate. I think both Biden and trap.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1318.0s	1318.0	 Biden and Trump both had a trap to avoid. I think Biden's trap
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1321.6s	1321.6	 was appearing senile. I think trap Trump's trap was appearing
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1325.2s	1325.2	 unhinged. I would say that Biden avoided his trap. And Trump did
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1328.9s	1328.9	 not by constantly attacking Biden interrupting him. It was
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1333.9s	1333.9	 counterproductive. I mean, what you want to do with Biden was
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1336.6s	1336.6	 let the man talk. He's a gaff machine. You know, let him talk,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1340.0s	1340.0	 let him say things that will get him in trouble. Instead, by
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1342.7s	1342.7	 constantly interrupting him, Trump kind of let him off the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1345.2s	1345.2	 hook. And so it's now look, I mean, both of their bases, you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1350.9s	1350.9	 know, it's like it's like a sporting event, they're just
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1352.5s	1352.5	 going to root for the side they they already came to, you know,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1355.2s	1355.2	 to support. But I don't think Trump helped himself with a few
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1358.6s	1358.6	 percent of independents who are still out there, you know,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1361.1s	1361.1	 looking to make a decision.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1362.5s	1362.5	 I think you're totally right. It was, it was really surprising,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1366.1s	1366.1	 because if he had just left him to his own devices, you would
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1369.6s	1369.6	 have let it play out. But I thought Biden, to be honest,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1371.8s	1371.8	 there were some moments he was fabulous. So I thought he was
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1375.4s	1375.4	 excellent on race. I thought he was incredible. In the moment
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1379.7s	1379.7	 that he basically stood up to Trump about his son Hunter, and
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1383.1s	1383.1	 he looks in the camera and he basically says, Look, I love my
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1386.1s	1386.1	 son, my son's had troubles. And I support I mean, amazing. And
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1390.6s	1390.6	 so like in those moments, it's so hard to not see that guy as
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1395.7s	1395.7	 presidential. And I don't meaning like it's easy for
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1398.7s	1398.7	 Democrats or people that are voting for him like me. But I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1401.3s	1401.3	 think if you were a Republican, you got to look at that guy and
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1403.3s	1403.3	 say, man, that is a decent dude.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1405.6s	1405.6	 Yeah, I thought he had to. He did. He did. He did. He did in
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1409.6s	1409.6	 certain key moments. He did fabulously well. And in other
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1412.8s	1412.8	 moments where there were traps, he actually got built up because
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1415.8s	1415.8	 Trump kept interrupting and Joe was smart enough to stop talking
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1418.8s	1418.8	 so that it amplified the sense that Trump was interrupting him.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1422.0s	1422.0	 Trump to me seemed pathetic and scared. That was my like he
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1425.8s	1425.8	 scared of losing. He felt like a bully who had been like laughed
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1429.8s	1429.8	 out by the whole class like nobody takes him seriously. Like
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1432.6s	1432.6	 the moderator. What's his name? Chris Wallace, Chris Wallace,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1436.6s	1436.6	 the moderator was kind of like, what are you doing, sir, please?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1439.8s	1439.8	 Where I think Chris Wallace, I mean, I know people are critical
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1442.6s	1442.6	 of him. But Chris Wallace is like, sir, please, just trying to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1446.7s	1446.7	 appeal to like basic decency and Trump just not getting it made
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1450.0s	1450.0	 Trump look so bad. It just I think confirmed with people say
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1454.6s	1454.6	 the demographic he has to win is white women in a lot of these
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1457.4s	1457.4	 swing states. I mean, I don't think women want to vote. I'm
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1461.0s	1461.0	 gonna speak for all women here. But my understanding is women
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1463.7s	1463.7	 don't like guys like that who interrupt constantly and who are
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1466.2s	1466.2	 belligerent and badgering and they kind of like a great dad who
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1470.4s	1470.4	 defended to your point, Chamath, you know, his son and said, Hey,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1473.8s	1473.8	 listen, my son's got problems by others. I really think I really
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1477.8s	1477.8	 think and I and I and we talked about this a little bit before
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1480.6s	1480.6	 but the surface area in terms of policy between the republicans
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1485.9s	1485.9	 and the democrats now are virtually non existent. So look,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1490.7s	1490.7	 if you unpack foreign policy, they both hate Russia, they both
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1495.7s	1495.7	 hate China, they both need India, and the Middle East is
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1499.4s	1499.4	 irrelevant because we're moving to a carbon neutral alternative
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1502.8s	1502.8	 energy world. They also don't need Russia as an example. So all
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1507.8s	1507.8	 of this stuff that used to matter before in so much of the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1510.4s	1510.4	 foreign policy that dictate how Americans would fight wars,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1513.2s	1513.2	 spend money, you know, incite democracy, protect certain
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1516.7s	1516.7	 leaders, it's all out the window and they both think about it the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1520.4s	1520.4	 same way because the surface area is so similar. That's not
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1525.1s	1525.1	 what about what about the economy? So number two, so
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1528.7s	1528.7	 number two, economically, they're so similar, because they
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1532.0s	1532.0	 both want to spend trillions of dollars just under a different
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1534.5s	1534.5	 label. You know, one is sort of under a Green New Deal and the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1537.4s	1537.4	 other is called an infrastructure bill or whatever it
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1539.4s	1539.4	 is. And then number three, they will both have the same Federal
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1543.0s	1543.0	 Reserve that is tied to the hip of Treasury, who is already
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1546.2s	1546.2	 committed to be trillions of dollars a year and hawk, backing
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1550.1s	1550.1	 up all the debt that basically exists. And so if you put all
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1553.3s	1553.3	 these things together, it's a popularity contest. And this is
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1556.7s	1556.7	 why I think Joe Biden has an advantage because in a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1558.7s	1558.7	 popularity contest where you're just picking the figure that you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1561.5s	1561.5	 would, you know, either have a beer with or feel the most
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1564.4s	1564.4	 comfortable with, there's an element of this, which is like,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1566.8s	1566.8	 it's just a decent human being. It's easier for Biden to get
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1570.6s	1570.6	 that across than it is for Trump. And when Trump behaves
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1573.2s	1573.2	 that way, it just violates some simple rules of decency, like
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1577.8s	1577.8	 there were in the debate against Hillary Clinton, he didn't act
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1581.5s	1581.5	 this way. And he was more. It was like watching like a show,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1587.8s	1587.8	 like you were kind of like tuning in to see what the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1591.0s	1591.0	 theatrics would be. Or in the debates in the primaries in 2016
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1595.0s	1595.0	 against the Republicans, it was theatrical. Here, it was just, it
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1599.9s	1599.9	 was it was just kind of not it was it was pretty sacks in that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1603.2s	1603.2	 way.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1603.4s	1603.4	 Sacks, you think the Democrats put up the right candidate,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1606.0s	1606.0	 because if you did put up Elizabeth Warren, if you did put
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1608.2s	1608.2	 up a Bernie Sanders, or God forbid, both of them at the same
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1610.6s	1610.6	 time, it would be a very stark contrast, you would have the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1613.6s	1613.6	 socialist ticket that wants to, you know, ban the billionaires
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1618.0s	1618.0	 and stop capitalism and kneecap it and spend a bunch of money on
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1623.5s	1623.5	 redistribution of wealth. And here, Biden doesn't, he's never
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1626.9s	1626.9	 said redistribution of wealth, he's never said ban the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1628.8s	1628.8	 billionaires, he's pro capitalism, feels like a safer
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1631.7s	1631.7	 bet to the majority of Americans that they did the Democrats
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1635.0s	1635.0	 actually do a good job putting Biden up there?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1637.0s	1637.0	 I think so. I think he is the most now that we know he's not
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1641.0s	1641.0	 senile. I mean, I think there was some real question about
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1643.4s	1643.4	 that going into the debate. I think he proved in that debate
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1645.6s	1645.6	 that he's not. And you know, he's always kind of had the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1648.0s	1648.0	 decency card that tomorrow talks about. Now that we know he's not
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1652.0s	1652.0	 senile, I think he's he is the the Democrats most electable
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1655.9s	1655.9	 candidate because he is more centrist than certainly an
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1660.5s	1660.5	 Elizabeth Warren or some of the other candidates that you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1663.4s	1663.4	 mentioned.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1664.1s	1664.1	 Elizabeth Warren would have moved the election to be about
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1668.3s	1668.3	 substance. And in many ways, strategically, no, but think
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1672.4s	1672.4	 about this. If you basically converge on roughly the same
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1675.8s	1675.8	 strategy, with different labels, you make the election one of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1679.6s	1679.6	 style. And there are a lot of people who really want decency
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1685.6s	1685.6	 back in the presidency more so than they want anything else,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1688.4s	1688.4	 because they already come into the election with a level of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1691.4s	1691.4	 skepticism that policy A won't change that fast and B to the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1695.5s	1695.5	 extent it changes doesn't affect them. And so you know, for
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1699.0s	1699.0	 years, we've been electing people we like, and this is
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1702.0s	1702.0	 probably the most extreme test of that idea.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1705.4s	1705.4	 I think I think there was like, I mean, like, if you think about
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1707.5s	1707.5	 that debate, you could probably simplify it down into the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1709.8s	1709.8	 audience being part of three camps, they either know who
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1712.3s	1712.3	 they're voting for, Trump, they're know who they're voting
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1714.3s	1714.3	 for Biden, and then some folks who are kind of maybe built,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1717.4s	1717.4	 they're changeable. And for the folks that are changeable, the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1721.2s	1721.2	 there's a diversity of objectives, right? There are
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1723.6s	1723.6	 some folks who care about the decency, some folks who care
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1726.0s	1726.0	 about policy, but at the end of the day, I think you go into this
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1730.6s	1730.6	 debate with an expectation of Trump, and an expectation of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1734.2s	1734.2	 Biden. And I would say that Trump was flat to down relative
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1738.2s	1738.2	 to expectation, and Biden was flat to up. And so that's where
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1742.8s	1742.8	 I would kind of give the ticker to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1746.8s	1746.8	 sorry, I don't want to interrupt, but I just want to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1748.4s	1748.4	 read you this headline, President Trump will be admitted
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1750.5s	1750.5	 to Walter Reed Medical Center on Friday for a few days.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1755.6s	1755.6	 Yeah, I read that.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1757.3s	1757.3	 Hold on a second. That is groundbreaking.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1759.6s	1759.6	 Well, his doctor said it's because they're out of an
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1762.0s	1762.0	 abundance of caution. They just want to have him in a place
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1764.6s	1764.6	 where he can be treated, if and as he needs it that may you buy
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1767.4s	1767.4	 that a cover story. I think that look, if you don't buy that, I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1770.4s	1770.4	 think he's in trouble.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1771.4s	1771.4	 I agree with Jason. That's it is it is very strange.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1774.4s	1774.4	 When you get a treatment when when you get a treatment like
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1777.2s	1777.2	 he got today, you know, eight grams of immunoglobulin therapy
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1781.4s	1781.4	 like that. It sucks. I've had this treatment, I've had
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1786.5s	1786.5	 immunoglobulin therapy before. And you get knocked out, you're
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1789.8s	1789.8	 on all these steroids, you're on all this anti allergy stuff,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1793.4s	1793.4	 you're a mess for a day or two. And you know, you want to get
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1797.4s	1797.4	 like IVs and stuff that give you all sorts of stuff to go with
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1800.0s	1800.0	 it, I got to imagine that after getting that therapy, he's going
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1803.8s	1803.8	 to need to be in some degree of care. And I would imagine it's
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1806.2s	1806.2	 probably better to just do that around doctors and with all the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1808.4s	1808.4	 equipment and try and, you know, kind of bring everything into
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1811.4s	1811.4	 the White House. So I don't read it as negatively. But
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1814.8s	1814.8	 well, I mean, do you think it could be like an anaphylactic?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1820.3s	1820.3	 He might be having some reaction. Yeah, totally. Like I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1824.4s	1824.4	 said, a large percentage of people that get these antibody
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1826.7s	1826.7	 therapies have some sort of allergic response. It's all the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1829.8s	1829.8	 way from anaphylactic to, hey, I'm having my throats closing.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1833.6s	1833.6	 Hey, I feel I'm getting flushed, I'm getting a fever, there's all
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1836.4s	1836.4	 sorts of ways that this can kind of present. So the world is
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1839.5s	1839.5	 changing so fast that we can't even complete a podcast without
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1842.3s	1842.3	 it being obsolete.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1843.7s	1843.7	 Can I say one other thing? What did you guys think about the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1846.4s	1846.4	 fact this is a little morbid so you can we can choose not to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1848.9s	1848.9	 talk about it, but the stock market basically did nothing
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1852.8s	1852.8	 today on the news that the most important person in the free
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1856.8s	1856.8	 world, theoretically.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1860.1s	1860.1	 I think you just answer your own question. I can chime in on this
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1862.8s	1862.8	 one is I don't think that people perceive that Trump is good or
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1866.4s	1866.4	 bad for the economy either way, and that the economy is separated
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1870.1s	1870.1	 now from politics, because they think Biden or Trump are going
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1872.8s	1872.8	 to have the same policies, which you said before, they have the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1875.1s	1875.1	 same policy. So why does it matter? If Trump were to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1877.7s	1877.7	 tragically die, it would not make a difference in the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1880.8s	1880.8	 American economy, it's not going to affect people buying
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1882.5s	1882.5	 iPhones, it might shake people psychologically, but I don't
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1885.6s	1885.6	 think in a massive way, because he's almost out of office. So I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1888.5s	1888.5	 think it's all baked in. That's why the market did do it. And
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1890.4s	1890.4	 what do you think, Zach?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1891.4s	1891.4	 I want to disagree slightly with the idea that this election
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1893.7s	1893.7	 doesn't matter. I think it will matter a lot if the Democrats
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1899.0s	1899.0	 win the Senate, as well as the presidency, because then they
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1902.2s	1902.2	 will have one party control and they can pass as much legislation
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1904.7s	1904.7	 as they want. And I think a lot of things will get signed. And I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1908.8s	1908.8	 think the Biden presidency could be very consequential, at least
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1912.1s	1912.1	 for two years, while all this legislation is passed, even if
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1915.8s	1915.8	 you know, he's not, you know, out in front saying very much. I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1919.5s	1919.5	 mean, the significance will be in the in the in the pen to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1923.1s	1923.1	 sign the legislation. If the Republicans hold on to the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1926.5s	1926.5	 Senate, but Biden wins the presidency, I agree with you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1929.4s	1929.4	 that it's not going to be a tremendously consequential
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1933.0s	1933.0	 election, because we'll have gridlock and divided government
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1934.9s	1934.9	 again. And so I think a lot hinges on whether Biden wins
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1940.2s	1940.2	 with or without the Senate.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1941.9s	1941.9	 I don't disagree with you. The only thing that I will say is
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1944.4s	1944.4	 that I think that Biden will drag the country, especially if
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1950.6s	1950.6	 it's a, you know, up and down Democratic ticket, back to the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1954.2s	1954.2	 80s and 90s, more to the sort of the George Baker School of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1959.3s	1959.3	 diplomacy and governance. And I think that if I don't know him
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1963.4s	1963.4	 to know this, but I think that if he really were to have a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1966.0s	1966.0	 legacy, I'm suspect, I would suspect that part of again,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1971.1s	1971.1	 because he's mentioned that, you know, why did he run? He said
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1973.9s	1973.9	 the pivotal moment was like Charlottesville and Trump's
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1976.1s	1976.1	 reaction to Charlottesville. I think Biden is really moored by
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1979.6s	1979.6	 this concept of decency. And I think that if if he were there,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1983.5s	1983.5	 and he thought to himself, I'm going to be here for four years,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1985.6s	1985.6	 because that's the right responsible thing to do, but no
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1987.8s	1987.8	 more. I don't think that you're going to see a bunch of crazy
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1991.9s	1991.9	 legislation passed. I think Biden's going to say, guys,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1994.0s	1994.0	 this is what I expect to do. By the way, did you? Because and I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1997.2s	1997.2	 and I think I would bet on that because of what he said at the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=1999.7s	1999.7	 beginning of the debate. He's like, I am the Democratic Party.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2004.8s	2004.8	 I don't know if you guys remember that. I do remember that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2007.2s	2007.2	 that was incredible. That was so powerful. That was a very
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2010.5s	2010.5	 Darth Sidious Emperor move when he said no, no, no, he was I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2014.4s	2014.4	 think he was trying to basically say like firewall the far left
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2018.6s	2018.6	 or far left the socialist left and say, that rhetoric is not
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2023.3s	2023.3	 what I was elected on. I was elected on my platform. I am the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2027.6s	2027.6	 party. This is what I believe. And everybody else will have to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2031.0s	2031.0	 toe the line. And by the way, in the end, that's not such a bad
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2034.4s	2034.4	 thing.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2034.8s	2034.8	 Yeah.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2036.5s	2036.5	 It's a man. I agree. I think that that was a really important
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2039.6s	2039.6	 moment for him is for him to say, look, I'm in charge here
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2042.4s	2042.4	 because the Republicans have been making the argument that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2044.6s	2044.6	 he's a Trojan horse for all these like far left elements.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2049.6s	2049.6	 And so it's very important for him to come forward and say, no,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2052.1s	2052.1	 I'm the one leading this ticket. Now, that being said, and I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2056.6s	2056.6	 think it would be a great thing for the country if Biden brought
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2059.9s	2059.9	 the Democratic Party back to more of a, you know, Bill Clinton
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2064.0s	2064.0	 to, you know, Obama type centrism, or your center left
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2067.7s	2067.7	 ism, I guess you could say, as opposed to this sort of like
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2071.3s	2071.3	 crazy, you know, woke, Marxism or Maoism, whatever you want to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2076.1s	2076.1	 call it. But I'm very skeptical that he will because I think
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2079.9s	2079.9	 Biden has always positioned himself throughout his career as
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2083.6s	2083.6	 being at the center of the Democratic Party. And I think he
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2086.9s	2086.9	 moves as the Democratic Party moves. I agree, he's not going
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2089.4s	2089.4	 to be all the way to the left of the Democratic Party. But those
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2092.0s	2092.0	 left elements will drag his sort of center to further to the left
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2097.2s	2097.2	 and will end up with sort of a compromise. And I think at the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2100.0s	2100.0	 end of the day, if the Democrats win Congress, he'll sign
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2103.2s	2103.2	 whatever they they pass.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2105.7s	2105.7	 I'm not so sure. I really I really I'm not so sure that the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2110.8s	2110.8	 White House is not that far away. It looks like it's a 30
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2116.9s	2116.9	 minute drive from Walter Reed, sending a helicopter. Is that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2123.3s	2123.3	 normal? Because he drove there last time. Would that be
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2127.5s	2127.5	 indicative of this as an emergency type situation sending
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2130.2s	2130.2	 Marine One as opposed to just driving there for 20 minutes?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2133.5s	2133.5	 Look, they'd be there'd be a lot of liability if he had an actual
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2136.4s	2136.4	 medical emergency. And they were just like, Yeah, we're gonna
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2138.7s	2138.7	 send him for a few days out of an abundance of caution. The
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2141.1s	2141.1	 fact that they said out of an abundance of caution, I think,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2144.0s	2144.0	 if there is an emergency, you can't get away with saying that.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2147.9s	2147.9	 Oh, you can. For sure. They would lie. I don't know. It'll
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2151.3s	2151.3	 come out. Trump administration was above lying.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2156.0s	2156.0	 He's unconscious. They got to swear pens in. Yeah, there's a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2158.8s	2158.8	 lot of reasons why you got to be careful. I'm not saying he's
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2160.9s	2160.9	 unconscious. I'm just saying it is not even unconscious. One
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2164.8s	2164.8	 like, I'm just thinking out loud here is sending a helicopter
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2168.0s	2168.0	 for a 20 minute ride in a motorcade. Like seems a little
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2171.9s	2171.9	 I mean, I would take a I would take a helicopter to the 711 if I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2174.8s	2174.8	 had a helicopter.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2178.6s	2178.6	 You're taking a helicopter down to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2180.7s	2180.7	 is something I would say.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2183.6s	2183.6	 Okay, let's, this is, I think, a good jumping off point to an
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2188.8s	2188.8	 interesting discussion that blew up on Twitter earlier this week,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2191.7s	2191.7	 which is, we can't keep up with all the politics, the the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2195.8s	2195.8	 rhetoric, the vitriol, and this polarization. So, Coinbase
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2200.9s	2200.9	 co founder and CEO Brian Armstrong wrote a letter saying,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2203.7s	2203.7	 Hey, listen, if you want to talk about politics, that's fine. Not
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2209.4s	2209.4	 at my company anymore. We're gonna have a no politics rule,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2212.5s	2212.5	 no debating this stuff. And we're going to be ultra ultra
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2215.3s	2215.3	 focus, focus, I'm sorry, at work. And you can check your
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2220.0s	2220.0	 politics at the door. When you read this, Sachs, you've come
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2223.2s	2223.2	 out in support of Brian Armstrong. What was your take
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2226.6s	2226.6	 on his position about leave your politics at the door when you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2231.4s	2231.4	 get to work?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2232.5s	2232.5	 And then I think I think what Brian so I did I did compliment
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2236.1s	2236.1	 it. His his manifesto and I think
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2239.3s	2239.3	 are you an investor?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2240.6s	2240.6	 I am I'm a small investor in Coinbase. And, and I'm friendly
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2245.7s	2245.7	 with with Brian. And so I certainly, you know, like the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2250.1s	2250.1	 idea of defending him against unfair attacks. But I also
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2254.1s	2254.1	 genuinely like the manifesto. And I think, you know, his
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2257.7s	2257.7	 argument kind of boils down to three components. I think number
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2260.5s	2260.5	 one, that having these debates on every issue, whatever the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2265.3s	2265.3	 issue de jure is, pulls the company's focus away from its
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2268.9s	2268.9	 core mission, which he really emphasized. And, you know, that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2272.6s	2272.6	 mission, mission is challenging enough in its own right. Second,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2276.8s	2276.8	 he was saying that, in something I've said before, as well, which
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2280.4s	2280.4	 is just that politics is just increasingly divisive in our
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2283.2s	2283.2	 society, it's just inherently divisive. And therefore, it's
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2287.1s	2287.1	 corrosive to team cohesion. And the more you have of that in
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2290.2s	2290.2	 your company, the worse it is for you know, the team. And I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2294.3s	2294.3	 think the third thing he mentioned, which I thought was
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2297.1s	2297.1	 really interesting is that the freewheeling debate of or
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2300.9s	2300.9	 discussion of politics, you know, like like that we're
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2303.8s	2303.8	 having here, but we kind of have our own little safe zone here, it
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2306.9s	2306.9	 risks hurt feelings or misunderstandings that can become
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2310.3s	2310.3	 HR issues, because people can then complain about it. They feel
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2316.0s	2316.0	 unsafe, and they report to and so that's a further
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2319.2s	2319.2	 moment in this podcast, I'll be honest, there was a couple of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2321.5s	2321.5	 moments.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2323.1s	2323.1	 I think one of the reasons why this pod sort of works is because
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2325.5s	2325.5	 we're all we're all friends, and we've created a safe space for
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2328.8s	2328.8	 us to have these conversations, but the workplace is very
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2331.5s	2331.5	 different. It's not you know, and what I read, Brian trying to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2335.6s	2335.6	 do is to reimpose a true safe space by saying leave your
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2339.7s	2339.7	 politics at the door. Now I think he's been deliberately
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2343.3s	2343.3	 misconstrued by by critics who want to say that, well, you have
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2348.4s	2348.4	 to leave your conscience at the door, you know, that's not true.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2351.0s	2351.0	 He's not saying that you can't have your own political views,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2354.7s	2354.7	 or contribute to causes that you like. But you just do got to do
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2358.5s	2358.5	 it on your own time. Kind of like Mr. Hans said in fast times
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2361.7s	2361.7	 at Ridgemont High, you know, like do that on your own time.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2365.8s	2365.8	 And I and that makes sense to me.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2368.0s	2368.0	 I think like, I mean, look, I think about this from the point
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2372.2s	2372.2	 of view of one of the employees working at one of these
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2375.1s	2375.1	 companies, that doesn't want to be a party to the debate. If I'm
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2379.5s	2379.5	 an engineer at Google or Coinbase, I go into work, and I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2383.8s	2383.8	 am captive, right? I don't have the option of not showing up to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2387.1s	2387.1	 work. If I go to a rally, I have the option of saying I'm going
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2390.8s	2390.8	 to go to this rally and walk away because I don't like the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2392.7s	2392.7	 speaker, or I'm going to go to the rally because I want to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2395.5s	2395.5	 participate in this dialogue or this debate. I can't do that at
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2398.7s	2398.7	 work. So it's unfair for work, which is a place that I as an
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2402.4s	2402.4	 employee have to go to every day, to be a forum for people
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2406.4s	2406.4	 to express themselves on political points that I may or
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2410.0s	2410.0	 may not agree with, but more importantly, may or may not want
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2412.4s	2412.4	 to actually be a party to the discussion around. And I think
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2416.7s	2416.7	 that's the most important thing to note here is like, it's not
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2419.4s	2419.4	 about enabling the free speech of the employees that want to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2422.1s	2422.1	 debate. It's about the protecting the workspace for
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2425.4s	2425.4	 the employees that don't want to debate and don't want to be
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2427.7s	2427.7	 exposed to that. And that's really important.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2430.5s	2430.5	 As it's a person of color who, you know, have I'm sure some
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2436.0s	2436.0	 shrunk has some shrunk feelings about what we've seen in terms
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2438.5s	2438.5	 of police shootings, or maybe in your own personal life
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2441.6s	2441.6	 experience facing racism. Again, as a person of color, what are
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2446.1s	2446.1	 your thoughts on the workplace? Is it? Is it possible for you to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2450.8s	2450.8	 leave that at the door? That was the criticism I think I saw
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2454.0s	2454.0	 from the you know, people who were supportive of BLM. And they
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2458.1s	2458.1	 said the background here was they were trying to get Brian to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2463.0s	2463.0	 explicitly say Black Lives Matter, and to, you know, have
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2466.5s	2466.5	 the company rally behind that. And that he didn't, he didn't
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2471.6s	2471.6	 want to have that be part of the work environment and that he was
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2474.6s	2474.6	 offering people four to six months severance if they would
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2476.6s	2476.6	 leave if they don't like the new rules. So what are your
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2478.5s	2478.5	 thoughts?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2479.3s	2479.3	 I think that this whole thing became a quagmire unnecessarily.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2483.5s	2483.5	 I think that he showed a lot of naivety. And frankly, like, a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2493.9s	2493.9	 little bit of stupidity, really. It was really poorly written.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2498.8s	2498.8	 And that's why it's been so misunderstood and
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2501.7s	2501.7	 misconstrued. In my opinion, I think a lot of what he had to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2504.9s	2504.9	 say was valid, but when it was so poorly presented, and you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2509.0s	2509.0	 know, the, the essay was like eight minutes, and it was
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2511.7s	2511.7	 rambling, and the mission was like, you know, 97% down on the,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2515.3s	2515.3	 you know, in the it's just like, it was a convoluted fucking
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2517.7s	2517.7	 mess. So if I had to do it again, if I were him, or if I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2521.4s	2521.4	 was his advisor, and he had asked me, you know, to proofread
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2524.2s	2524.2	 the essay, what I would have said is more of the following,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2527.5s	2527.5	 which is our mission, which is, you know, I think to create
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2531.8s	2531.8	 financial liberty or something, something like that, you guys
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2534.0s	2534.0	 can find out what it is for the whole world is unbelievably
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2538.2s	2538.2	 important. We will talk about every issue through the lens of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2543.3s	2543.3	 achieving our mission. And we will be disciplined about saying
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2546.3s	2546.3	 which things matter and which things don't. So for example, if
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2550.0s	2550.0	 somebody says, Listen, I really believe in spaying and
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2552.6s	2552.6	 neutering dogs, the right answer shouldn't be, hey, shut the fuck
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2556.3s	2556.3	 up. It says, Okay. How does that allow us to maximize our users?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2562.8s	2562.8	 How does that allow us to achieve our mission? Why does it
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2566.4s	2566.4	 allow us to achieve our mission? And if you ask the question, why
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2570.6s	2570.6	 four or five times in a very first principles way, you'll get
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2574.1s	2574.1	 to the answer. So I would have rather said, we are going to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2576.7s	2576.7	 train people how to understand what builds up to our mission,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2581.7s	2581.7	 and what is otherwise something that you should leave at home.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2586.4s	2586.4	 And in that context, there are a lot of things actually, that are
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2590.3s	2590.3	 political that need to be brought especially into a company
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2592.9s	2592.9	 like Coinbase, which is working in crypto, which is all about
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2597.0s	2597.0	 eliminating the financial barriers of people that don't
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2599.7s	2599.7	 have access to it, like you are trying to dismantle an extremely
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2604.0s	2604.0	 exclusionary part of the economy. And so there are
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2608.3s	2608.3	 potentially many movements that matter. And those movements in
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2612.8s	2612.8	 countries in which you will want to gain users may look like
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2616.9s	2616.9	 political movements.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2618.2s	2618.2	 Well, and that was Jack Dorsey's point he so I just think, yeah,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2621.9s	2621.9	 so I just think it was a it was a, it was kind of a two
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2625.3s	2625.3	 superfit. It was very Silicon Valley esque reaction. It was
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2628.2s	2628.2	 emotional. It was a little insecure. And it, to me, it
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2633.7s	2633.7	 missed the mark, because there was a lot of validity in what he
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2636.5s	2636.5	 was saying, but presented in kind of in a lens of, you know,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2641.5s	2641.5	 Silicon Valley bullshit. And it was not well thought through. So
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2645.9s	2645.9	 if he had rewritten it, and he had said 99% of what he said,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2651.2s	2651.2	 but through the lens of why we're going to think about a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2655.5s	2655.5	 first principles way of defining how everything ladders into the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2659.3s	2659.3	 mission, he will train his employees. Instead, what he
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2662.1s	2662.1	 created was a schism at a decision point. And I'm not sure
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2664.9s	2664.9	 that that's how you maximize value in 2020 as a CEO, because
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2668.4s	2668.4	 at the end of the day, you have to deal with an entire
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2671.2s	2671.2	 population cohort that is that are in their 20s, early 30s,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2675.7s	2675.7	 teenagers that will eventually want to work for you. And
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2678.6s	2678.6	 whether we like it or not, they're different. And one of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2681.3s	2681.3	 the things you need to do if you're going to run an enormous
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2683.4s	2683.4	 company is understand the psychology of your employees,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2687.0s	2687.0	 understand the psychology of how movements and decisions are
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2690.7s	2690.7	 organized, and then play to win. And it's no different than
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2694.7s	2694.7	 anybody else. If you want to be in the job, you know, to be the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2697.9s	2697.9	 starting point guard for the Warriors, you got to know how to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2700.3s	2700.3	 fucking pass the ball. And if you're going to be the power
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2703.2s	2703.2	 forward, you have to know how to do a certain set of things that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2705.6s	2705.6	 are different than that. And so I would sort of have framed it
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2708.8s	2708.8	 there because I think there was a lot of goodness in what he
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2711.6s	2711.6	 said, but presented in a pretty shitty manner.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2714.2s	2714.2	 I think it's good he brought up the topic. I do think there's a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2716.4s	2716.4	 tactical issue here. And he he could have laid out the ground
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2720.1s	2720.1	 rules for I think, to your point, Jamath of how we should
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2723.3s	2723.3	 talk about politics at work. And what are the ground rules? I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2727.2s	2727.2	 think the number one issue here, which people don't talk about,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2730.4s	2730.4	 is that slack, and email and forums inside of companies have
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2736.4s	2736.4	 created a massive distraction. And when somebody goes into the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2740.5s	2740.5	 random channel, which is built into slack, and I know this is
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2742.9s	2742.9	 in the weeds, but I have seen this happen at multiple
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2745.8s	2745.8	 companies now, slack infects a company, somebody creates a room
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2749.8s	2749.8	 about a topic, whether it's Trump, or police violence, or
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2754.6s	2754.6	 immigration, whatever it is, and then people want to sound off on
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2758.5s	2758.5	 that. And now you've got an electronic form, where people
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2761.9s	2761.9	 are talking about highly charged issues that makes people feel
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2764.9s	2764.9	 unsafe. And so what I told my companies was the two companies
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2768.4s	2768.4	 I run, you could talk about politics, if you want to go for
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2770.8s	2770.8	 a walk with somebody and have coffee or lunch, and you want to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2773.4s	2773.4	 have a two hour discussion about it, go for it. Please do not put
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2776.6s	2776.6	 this in electronic form, because it's a massive distraction. And
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2780.5s	2780.5	 there'll be a record that could create downstream human
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2783.4s	2783.4	 resources issues to your report sex,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2785.1s	2785.1	 I have a suggestion. And this is an organizational design
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2788.4s	2788.4	 experiment, and maybe somebody listening will implement it
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2790.9s	2790.9	 their company, allow 100% freeform debate about anything.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2796.0s	2796.0	 One condition, you literally need to have a soapbox. And like
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2800.4s	2800.4	 in the 1880s Hyde Park in London, you put the soapbox
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2804.4s	2804.4	 someplace in a safe space where you can go and you can talk and
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2807.7s	2807.7	 people who want to listen will listen. And people who need to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2810.4s	2810.4	 work can work. And people who don't want to listen don't have
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2813.4s	2813.4	 to be forced.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2814.7s	2814.7	 That's what's the what's the what's the digital version of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2817.2s	2817.2	 that that you're
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2818.7s	2818.7	 a literal room, a literal campus, a literal place in your
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2821.9s	2821.9	 office, you put the soap, you have a soapbox, you grab it, you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2824.9s	2824.9	 put it down the ground, you stand on it, and you say it. And
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2828.0s	2828.0	 if you're not willing to do that, then you know, it's
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2831.1s	2831.1	 okay. Are you saying that there's no digital version of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2833.7s	2833.7	 that? Because
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2835.0s	2835.0	 what I'm saying is that two things. One is the digital
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2838.8s	2838.8	 version is actually training people to ask why? Why does it
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2843.2s	2843.2	 matter? Now, the reason why it's important to ask that is
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2846.1s	2846.1	 because somebody may say, I'll use Jason's example that he
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2849.4s	2849.4	 loves, we need to support the Uyghurs in China. The best way
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2853.8s	2853.8	 to do that is to proliferate our software in the following way
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2857.3s	2857.3	 because it will free them from enslavement of the Chinese, and
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2860.6s	2860.6	 it'll give them access to financial independence. Wow. I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2864.3s	2864.3	 mean, okay, that seems to be paying off the mission.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2868.1s	2868.1	 So if you would, if so, you got to give freedom for people to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2872.0s	2872.0	 come up with these ideas, because it may the first version
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2875.2s	2875.2	 of this idea may, may not actually be what the final
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2878.6s	2878.6	 version is. And the final version may be the killer
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2880.4s	2880.4	 feature. So I, on the digital forum in the slacks, it should
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2884.7s	2884.7	 be why. Respect, it's a very respectful question.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2888.4s	2888.4	 Shouldn't it should not be in any digital forum because it
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2890.9s	2890.9	 leads to chaos because we see that on Twitter. And what's
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2892.9s	2892.9	 happening is the Twitter derangement that we all suffer
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2895.6s	2895.6	 from is now infected inside the immunity, the communication
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2898.9s	2898.9	 system that runs the operating system of the company. Go ahead,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2902.1s	2902.1	 yeah, that's exactly right.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2904.4s	2904.4	 Yes, I do. I do agree with Jake on this one. So look, I mean,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2907.3s	2907.3	 Chamath is right that I'm sure I'm sure Chamath would have
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2909.8s	2909.8	 written a better letter. But I think we understand the gist of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2912.4s	2912.4	 what Brian was trying to say. And actually, I thought it took
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2915.2s	2915.2	 a lot of courage to write it. And what he's basically saying
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2918.3s	2918.3	 is that politics has become so divisive in our society that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2923.4s	2923.4	 that may be nice if we could have these reasonable debates
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2925.9s	2925.9	 the way that we're having this discussion inside companies, we
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2928.6s	2928.6	 didn't have to have these artificial restrictions. But we
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2931.9s	2931.9	 do we have to, you know, it's the same reason, you know, that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2935.6s	2935.6	 we have the separation of church and state is because people
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2937.6s	2937.6	 couldn't stop killing each other over religious wars. And so
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2940.4s	2940.4	 finally, we had, you know, the Treaty of Westphalia to stop it.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2942.9s	2942.9	 And what Brian's basically proposing is a is a treaty for
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2946.6s	2946.6	 the workplace because we cannot get along around politics.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2950.5s	2950.5	 But David, he is the CEO of an $8 billion company, could he not
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2953.8s	2953.8	 have hired somebody to edit that essay?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2956.1s	2956.1	 Okay, well, I mean, look, I just took it to me.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2958.6s	2958.6	 Like if it's meaning if it's seriously well thought through,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2961.6s	2961.6	 and it and if it was as important as Westphalia, you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2965.5s	2965.5	 would probably have a couple proofreaders corporate
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2967.7s	2967.7	 corporate version. Okay, it's not.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2970.4s	2970.4	 I could have been polished for sure. Here is Jack Dorsey's
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2972.8s	2972.8	 response. I'll have you guys respond to it. I think it's in
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2975.2s	2975.2	 your wheelhouse. And in terms of what you said, Chamath, Bitcoin
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2978.7s	2978.7	 aka crypto is direct activism against an unverifiable and
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2982.5s	2982.5	 exclusionary financial system, which definitely affects so much
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2985.8s	2985.8	 of our society important to at least acknowledge and connect
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2990.2s	2990.2	 the related societal issues your customers face daily. This
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2993.5s	2993.5	 leaves people behind.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2995.4s	2995.4	 I think he's right, you have to view this problem not through
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=2997.9s	2997.9	 the lens of your own emotions, not even through the lens of the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3000.9s	3000.9	 frustrations of your employees, you have to help shift the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3003.5s	3003.5	 discussion to say, why does this achieve our mission? And just
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3008.3s	3008.3	 constantly in a thoughtful, respectful way, ask why and by
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3012.9s	3012.9	 the fourth or fifth why it will either be something that doesn't
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3016.7s	3016.7	 matter, and you can dismiss it quickly, or something that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3020.0s	3020.0	 actually is rooted in fact, and probably is something you need
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3023.3s	3023.3	 to pay attention to. And maybe the way that the conversation
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3026.5s	3026.5	 started was probably not with the right language that people
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3029.6s	3029.6	 given the chance would have framed it differently.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3031.8s	3031.8	 Okay, the worst take, according to the internet's Twitter's
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3035.9s	3035.9	 ability to ratio people, which is when you get more comments
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3039.4s	3039.4	 than likes, which is not normally how it works, people
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3042.1s	3042.1	 are actually taking the time to explain to you how bad your take
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3045.3s	3045.3	 was, as opposed to liking it is what a ratio is, if you don't
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3048.4s	3048.4	 know, goes to Dick Costello, who's a friend of ours, me first
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3053.7s	3053.7	 capitalists who think you can separate society from business
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3058.2s	3058.2	 are going to be the first people lined up against the wall and
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3062.0s	3062.0	 shot in the revolution. I'll be happy. That's enough to get you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3068.0s	3068.0	 ratioed and have this thing go supernova. I mean, Mike
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3070.8s	3070.8	 Cernovich is retweeting this and losing his mind over it, that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3075.0s	3075.0	 the former CEO of Twitter is inciting violence. He's a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3079.0s	3079.0	 comedian as well, Dick Costello, so I think he's joking here. But
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3082.9s	3082.9	 he adds the explanation point, I'll happily provide video
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3087.0s	3087.0	 commentary.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3088.8s	3088.8	 Here's my disagreement with Dick and with Jack is ultimately the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3096.6s	3096.6	 societal value of a company doesn't come from whatever
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3100.4s	3100.4	 platitudes or political statements as its CEO makes, but
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3103.7s	3103.7	 rather, from the quality of its products and the impact of its
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3106.9s	3106.9	 products. And in that sense, Dick and Jack are living in a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3109.8s	3109.8	 glass house. I mean, Twitter is a sewer of political diatribe and
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3117.1s	3117.1	 polemical hate. I don't know anyone who feels better after
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3122.1s	3122.1	 spending time on Twitter. If Facebook is like cigarettes, I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3126.6s	3126.6	 don't know what Twitter is. I mean, it's like fentanyl or
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3129.3s	3129.3	 something. Yeah. So ultimately, maybe Jack should spend his time
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3134.3s	3134.3	 figuring out how to make Twitter into a less socially divisive
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3139.7s	3139.7	 product instead of because just issuing what platitudes is not
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3143.2s	3143.2	 going to do it.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3144.1s	3144.1	 I agree with that. I don't think platitudes does it.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3147.0s	3147.0	 All I'm saying is, you have to view it through the lens of I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3152.1s	3152.1	 want to become the most relevant company possible and achieve the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3155.4s	3155.4	 most impact. And I think that there are a lot of times where
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3158.7s	3158.7	 some of these issues, when presented politically,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3162.0s	3162.0	 underlying it is actually some feature or some capability, or
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3166.8s	3166.8	 some way of seeing the problem that unlocks more demand that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3170.5s	3170.5	 can help you win and not knowing a priori what the answers to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3173.6s	3173.6	 those questions are. It's important to train people on a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3176.8s	3176.8	 framework versus say you can't talk because I guarantee you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3180.1s	3180.1	 what will happen is somebody with some killer feature will be
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3183.2s	3183.2	 too scared to say something because they're not sure how to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3185.2s	3185.2	 say it well. And you and I both know because we've seen many
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3188.5s	3188.5	 companies that have gone through that cycle. Those companies
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3191.2s	3191.2	 decay and die.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3193.6s	3193.6	 Yeah, I think it'd be great if a policy like this wasn't
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3196.3s	3196.3	 necessary. I mean, it's I agree it's suboptimal. But I think
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3200.8s	3200.8	 that it's caused by the fact that people just can't get along
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3203.3s	3203.3	 around politics anymore.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3204.4s	3204.4	 Friedberg, what is your take on ultimately how Coinbase winds up
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3210.3s	3210.3	 the year or two after this? Do they get more resumes of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3214.9s	3214.9	 hyper talented people who want to embrace a politics social
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3219.3s	3219.3	 issue free workplace? Or do millennials and you know, Gen C
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3225.2s	3225.2	 and this next group of talented folks say I don't want to work
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3229.6s	3229.6	 for somebody who doesn't want to talk about these issues at work.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3233.3s	3233.3	 And then at the production board where you have a factory where
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3236.0s	3236.0	 you build companies? Do you have some rule around this yourself?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3240.6s	3240.6	 Or thoughts about how you run your companies?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3243.4s	3243.4	 I think the more clearly you define culture, the more
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3246.9s	3246.9	 successful your company will be. And right or wrong about whether
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3251.4s	3251.4	 or not you enable the debate in the discussion and how you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3255.0s	3255.0	 define the forums for kind of political discussion within your
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3258.4s	3258.4	 company. The fact that there is a clear definition of delineation
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3262.7s	3262.7	 around this point, I think removes the uncertainty. And I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3265.6s	3265.6	 think he'll do exactly what he's hoping to do, which is to get
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3268.8s	3268.8	 people to leave and to attract other people that better fit
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3272.0s	3272.0	 with that cultural model. I want to put my game face on. I want
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3275.9s	3275.9	 to go to work and I want to win the game. I'm here to play. I'm
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3279.0s	3279.0	 not here to fuck around. I'm not here to do other stuff. I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3281.9s	3281.9	 want this job because I believe in this mission. And I want this
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3284.9s	3284.9	 company to succeed in what it's trying to do. And I think other
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3288.0s	3288.0	 places that allow people to run around and, you know, do things
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3292.0s	3292.0	 that they may or may not appreciate other people doing
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3295.1s	3295.1	 or if you have this kind of low definition kind of culture,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3299.0s	3299.0	 where some people are happy, some people are unhappy, it all
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3302.5s	3302.5	 kind of, you know, slows things down. And I wouldn't kind of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3306.9s	3306.9	 encourage anyone to let that happen. I think it's really
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3311.0s	3311.0	 important to just define how it is you want to operate, be
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3313.6s	3313.6	 really clear about the rules and the boundaries and then
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3317.1s	3317.1	 that I agree with as well. I mean, I think it's very much
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3320.0s	3320.0	 within his right. And I think it took it I do applaud his
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3323.3s	3323.3	 courage in doing it. I just think that it misses the mark
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3325.9s	3325.9	 because I think it was too emotional.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3327.8s	3327.8	 I think he could do a 2.0 version and just keep building
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3330.3s	3330.3	 on the manifesto and say, Hey, based on the feedback I got,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3332.9s	3332.9	 here's how we're going to do it. No discussion. He on the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3336.8s	3336.8	 electronic.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3338.0s	3338.0	 Reed Hastings put out that fantastic PowerPoint that I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3342.0s	3342.0	 think we all know really well cultural playbook from Netflix.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3344.9s	3344.9	 And when did he put that out? Like, two almost a decade ago?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3348.8s	3348.8	 No, two decades ago, 2000.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3351.2s	3351.2	 And he's continued to refine it, right? If you look at his
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3353.6s	3353.6	 recent iterations of it, and they continue to kind of do a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3355.6s	3355.6	 better job of defining, you know, how do they intend to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3359.8s	3359.8	 operate with people. And I think it's, it's only continued to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3364.4s	3364.4	 reinforce the innovation that drives that company into the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3367.8s	3367.8	 hundred billion dollar plus valuation it's earned.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3371.1s	3371.1	 Yes. And if you if there's one important thing, which is that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3374.6s	3374.6	 there's a meaningful difference in the average age of a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3378.3s	3378.3	 Netflix employee in the average age of a Silicon Valley
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3380.8s	3380.8	 company. Now that may be also part of it as well.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3384.0s	3384.0	 I think the one thing that Brian could clarify is that you don't
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3388.1s	3388.1	 have to check your conscience at the door. You it's not we're
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3391.4s	3391.4	 not saying that you can't have political views. You're allowed
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3394.3s	3394.3	 to say things on Twitter or take political stands or donate to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3397.5s	3397.5	 whoever you want. It's just that the company itself is going to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3400.6s	3400.6	 be a demilitarized zone. You know, we're not going to bring
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3403.8s	3403.8	 we're not going to bring these contentious, divisive debates
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3407.5s	3407.5	 that really aren't related to our core mission inside the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3409.8s	3409.8	 company. So we can all work better. So we can all work
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3412.1s	3412.1	 better as a team towards the reason that we all joined this
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3414.9s	3414.9	 company.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3415.4s	3415.4	 But that's totally fair. But you know, while I'm saying all I'm
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3418.2s	3418.2	 saying again, I'll just say it again. That is such an important
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3420.8s	3420.8	 thing to say. You could have had a proofread a couple times you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3424.5s	3424.5	 didn't
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3424.7s	3424.7	 could have been could have come across the way you're saying it.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3427.8s	3427.8	 It didn't have to be written by GPT three. You know what I mean?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3432.0s	3432.0	 Also, I think that it was the the dunk he did afterwards,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3435.5s	3435.5	 where he's like, and, by the way, if you don't like it,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3439.2s	3439.2	 here's four months severance, get the fuck out. That was a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3443.0s	3443.0	 pretty aggressive move as well. I don't know how you guys felt.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3446.6s	3446.6	 I think I kind of like the gangster nature of it. I like
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3449.4s	3449.4	 I think it's I think it's great. Like, if I'm on the team, and I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3452.4s	3452.4	 believe in what he just said, I feel great that he's flushing
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3454.6s	3454.6	 the shit out. And if I don't agree with it, it's like, fuck
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3457.6s	3457.6	 you, I'll take it. You know, like, it's really clear. And I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3459.8s	3459.8	 think I think the clear cut definition of culture is what
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3462.7s	3462.7	 every company needs to kind of pursue. And it's an ongoing
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3465.6s	3465.6	 pursuit. And you can always do a better job with it.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3467.8s	3467.8	 And culture is what you choose not to do as much as it is what
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3470.5s	3470.5	 you do, right? I'm not going to talk about politics.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3472.6s	3472.6	 Freeburg is totally right. It takes a lot of courage to say,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3474.8s	3474.8	 here's what I believe. And if you don't, if you don't believe
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3478.0s	3478.0	 it, then it's okay for you to leave. And here's a severance
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3481.0s	3481.0	 package that takes a lot of courage. So I applaud him for
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3483.3s	3483.3	 that.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3483.8s	3483.8	 Yeah, I mean, look, it's a free country. And we all have limited
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3486.8s	3486.8	 time, we should all go work on the mission that is most
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3490.4s	3490.4	 important and inspiring to us. And Coinbase has a very specific
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3494.0s	3494.0	 mission that Brian's defining. He's trying to find it clearly.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3497.6s	3497.6	 And if that mission is important and inspiring to you, then go
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3500.0s	3500.0	 work there. And if it's not, then go work at the place that
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3502.8s	3502.8	 you know, where that you know, where the mission does inspire
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3505.3s	3505.3	 you. And it may be a startup or maybe, you know, a political
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3508.8s	3508.8	 organization, whatever it is, go do that thing. That's most
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3512.0s	3512.0	 meaningful to you. That's kind of my interpretation of what he
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3515.5s	3515.5	 was saying.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3516.5s	3516.5	 All right, as we wrap here, I was hard for me to interpret
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3519.3s	3519.3	 because it was so poorly written.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3521.2s	3521.2	 Well, also, the I mean, it was also like a huge bomb on Twitter
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3524.9s	3524.9	 and people's reaction to it was based upon I think how they feel
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3528.9s	3528.9	 at this moment in time. And a lot of people feel
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3530.9s	3530.9	 This is why I'm sorry, but communications is important. How
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3534.0s	3534.0	 you say things what you say, yeah, style is really important.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3539.2s	3539.2	 Yeah, whether it's Biden or Brian, yeah, take the time, get
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3542.4s	3542.4	 it right. Yeah.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3544.1s	3544.1	 All right. So 2021 is going to be upon us before we know it. And
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3548.4s	3548.4	 I wanted to wrap here with each of your feelings on the economy,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3554.3s	3554.3	 technology and politics, economy, technology, politics,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3557.6s	3557.6	 how do you feel about 2021? Are you optimistic, pessimistic,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3562.9s	3562.9	 neutral on those economy, politics,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3567.1s	3567.1	 have you guys ever been to Magic Mountain? Or Disneyland? You
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3571.7s	3571.7	 ever get you get one of those log rides? And it's like raging
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3575.6s	3575.6	 rapids or roaring waters or whatever they're called?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3578.0s	3578.0	 Sure. And it's just fucking like you hop in and this thing just
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3580.7s	3580.7	 takes off down the river. I don't know. Nothing summarizes
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3585.1s	3585.1	 this better for me. But in so many ways, is that where I feel
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3589.1s	3589.1	 we are right now? We've all jumped on a bunch of fucking
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3591.0s	3591.0	 logs, and we're shooting down this rapid river. And I think a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3594.7s	3594.7	 big part of what I'm feeling and Chamath is in the middle of this.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3598.5s	3598.5	 But there's this extraordinary velocity of capital right now.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3602.2s	3602.2	 And when I say that, I just mean capital is moving in large
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3605.8s	3605.8	 amounts very freely. And that creates like once in a generation
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3610.2s	3610.2	 kind of opportunity. It's in part because the Fed has dropped
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3613.2s	3613.2	 interest rates to zero. So there's all these trillions of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3616.3s	3616.3	 dollars moving markets, there's a change in an outlook and the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3619.1s	3619.1	 world is being shifted in so many ways. This is this really
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3623.0s	3623.0	 amazing moment that I think we can all be afraid of because
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3626.0s	3626.0	 we're on a fucking roaring rapid on a log trying to stay afloat.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3629.8s	3629.8	 But there is so much happening in these markets that we kind of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3635.1s	3635.1	 operate in. There's never been a better time to get your
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3638.1s	3638.1	 business funded or to take your company public, or to get
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3641.7s	3641.7	 customers to make quick decisions and change their
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3643.8s	3643.8	 behavior, whether they're a consumer or an enterprise
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3645.8s	3645.8	 customer, money and decisions are happening at a money is
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3648.9s	3648.9	 moving at a faster pace than we've ever seen and decisions
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3651.2s	3651.2	 are happening at a faster pace than we've ever seen. That's my
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3655.0s	3655.0	 general sentiment. I don't think it stops going into 2021.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3657.9s	3657.9	 There's just another kind of floodgate about to open with
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3660.6s	3660.6	 this election one way or the other. But these were in the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3664.5s	3664.5	 middle of this kind of raging rapids right now. And it's a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3667.8s	3667.8	 pretty, it's a pretty scary, but also kind of exciting kind of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3671.6s	3671.6	 time.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3672.0s	3672.0	 So it's so well said, Keen. Well, I really agree with you. I
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3675.8s	3675.8	 think that it's kind of like, if you used to take a second to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3680.7s	3680.7	 make a $1 decision and a minute to take a $100 decision, the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3685.2s	3685.2	 amount of money being flooded into the economy now allows you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3687.9s	3687.9	 to make $100 decision in a second, right? So like the order
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3692.7s	3692.7	 of magnitude of the mental barrier that it takes has
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3696.5s	3696.5	 changed. And I agree with you, I was thinking earlier this week
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3700.7s	3700.7	 that it's really incredible time to be alive for one very in one
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3707.2s	3707.2	 very specific way, which is obviously there's stuff that's
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3709.7s	3709.7	 happening that's really turbulent. But there is a chance
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3714.1s	3714.1	 that a bunch of us can really like change things in a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3721.1s	3721.1	 meaningful way. And I find it exciting. So I'm generally like
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3727.1s	3727.1	 I'm super bullish on the economy, I'm super bullish on
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3730.7s	3730.7	 tech. And I think I'm actually kind of like, reasonably
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3736.1s	3736.1	 optimistic about politics, I think that we're going to find
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3739.1s	3739.1	 our civility soon. And, and I don't know why that's going to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3744.4s	3744.4	 happen, or how it's going to get triggered. But I think honestly,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3749.6s	3749.6	 like the election of Biden will go such a long way to just, you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3757.2s	3757.2	 know, just showing what is rewarded, and then to figure out
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3761.3s	3761.3	 how to reward the folks that were supporting Trump in the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3765.5s	3765.5	 first place, for purposes of economic, you know, pushback,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3770.9s	3770.9	 could be a nice de escalation, in fact, and maybe an olive
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3774.4s	3774.4	 branch of Biden can bring that Republican Party into the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3778.0s	3778.0	 conversation.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3778.6s	3778.6	 Yeah, and sacks, sacks had this really beautiful thing that he
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3781.5s	3781.5	 posted on Twitter, which was like, you know, a lot of San
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3785.2s	3785.2	 Francisco's dysfunction is really going to spread wealth
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3788.8s	3788.8	 throughout the rest of the country. Because a lot of cities
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3792.1s	3792.1	 that were shut out of all these tech gains will now see it. And
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3795.8s	3795.8	 now you can imagine all kinds of people, there's a guy that I,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3799.2s	3799.2	 you know, follow on Twitter, he lives in Bowie, Maryland, he's a
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3803.8s	3803.8	 engineer at VMware, this black guy, and he was just talking
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3808.0s	3808.0	 about how he got promoted. And he's now a principal engineer.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3810.7s	3810.7	 And, you know, and I just thought, like, this is really
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3814.3s	3814.3	 fucking cool. Like, there's going to be all this
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3816.7s	3816.7	 redistribution of opportunity all around the country. And
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3822.1s	3822.1	 that'll happen because of Coronavirus, because of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3824.3s	3824.3	 people's frustration with California, because, you know,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3826.9s	3826.9	 of a handful of us, how fed up we've gotten with the culture of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3830.0s	3830.0	 Silicon Valley, including, by the way, right, what Brian
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3833.0s	3833.0	 Armstrong wrote, which was, which, again, still very
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3835.3s	3835.3	 important. And so we'll all be better off for that. So I don't
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3839.4s	3839.4	 know, I'm pretty optimistic.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3840.7s	3840.7	 Saks Tech Economy Politics 2021.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3845.7s	3845.7	 Well, I'm, I'm super bullish about, you know, how about the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3850.7s	3850.7	 entrepreneurial energy in the American economy. It's, it's,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3854.8s	3854.8	 it's 100 times greater than when we started out our careers in
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3858.2s	3858.2	 this business, you know, 20 years ago, in terms of the
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3860.5s	3860.5	 number of companies that get funded, the ideas, the tools
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3864.2s	3864.2	 that are available, the funding. I mean, when you think about
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3867.8s	3867.8	 it, this might be the first time in human history where money is
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3871.6s	3871.6	 chasing the, like throwing money at the ideas. I mean,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3874.7s	3874.7	 throughout history, until I'd say the last 10, 20 years ago,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3877.8s	3877.8	 you know, the people who had no money, but had great ideas,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3880.6s	3880.6	 always had to go hat in hand to go find the capital. And now
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3885.1s	3885.1	 it's completely the other way around. There's so many VCs,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3887.6s	3887.6	 and they're all racing around trying to find the people with
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3890.5s	3890.5	 ideas. And
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3892.4s	3892.4	 it was worse than that, Saks. They had to go give their ideas
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3895.4s	3895.4	 to a big company and take a salary.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3897.7s	3897.7	 Right. Like so Tesla, you know, Nikola Tesla, the original
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3900.4s	3900.4	 inventor didn't profit at all from his ideas, you know. And so
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3904.1s	3904.1	 that was pretty common. And, and so just this just just how
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3907.8s	3907.8	 entrepreneurial the US economy has become I'm very the new
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3911.7s	3911.7	 economy is completely taken over and I'm bullish on that. I think
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3914.5s	3914.5	 the the, you know, the tweet that Tomoth was referencing, you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3918.6s	3918.6	 know, I said that San Francisco's loss is going to be
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3921.1s	3921.1	 America's gain, the rest of America's gain, because Middle
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3924.1s	3924.1	 America was really left out of the new economy, it's just not
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3926.8s	3926.8	 where it was taking place. And so, you know, globalization
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3930.4s	3930.4	 really gutted industrial America, agricultural America,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3934.2s	3934.2	 they didn't get to participate in the enormous wealth creation
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3937.4s	3937.4	 of last two or three decades. And I think, you know, I guess,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3941.3s	3941.3	 you know, because of what San Francisco has done, in terms of
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3944.1s	3944.1	 driving out companies, I think the companies are going to be
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3947.2s	3947.2	 you know, tech companies are gonna be all over the US now.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3949.2s	3949.2	 Yeah, totally. It's so it's fucking awesome.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3953.2s	3953.2	 Should be super interesting. And so let's just lay the odds as we
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3960.0s	3960.0	 wrap here on Biden winning Biden 6535 approaching 7030.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3966.8s	3966.8	 Okay. David, you got a you got a handicap for me on Biden
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3973.0s	3973.0	 winning? What do you think, Sax?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3977.6s	3977.6	 Well, I mean, the betting line is is like, somewhere in the 60 to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3981.5s	3981.5	 70% range. And so you'd have to say that the the betting markets
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3985.2s	3985.2	 are probably, you know, pretty accurate. I guess, you know,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3988.7s	3988.7	 probably there's a 70% chance of him winning. If I had to bet on
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3991.7s	3991.7	 that line, I'd probably take the 30% underdog because I think,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3995.4s	3995.4	 you know, there's all things are so in so much turmoil right now
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=3999.0s	3999.0	 that anything could still happen.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=4000.5s	4000.5	 So you think there's a chance that Trump could win?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=4003.0s	4003.0	 Yeah, and it's probably bigger than 30%. Yes, quite big,
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=4005.3s	4005.3	 slightly bigger than what the betting markets are giving him
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=4007.2s	4007.2	 credit for.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=4008.1s	4008.1	 Friedberg, what are your thoughts?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=4009.2s	4009.2	 Probably right? Yeah, I don't have anything to add to that.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=4011.9s	4011.9	 All right. Any speculation that we want to end with Chamath on
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=4017.3s	4017.3	 the I just noticed that a meal from Uber is doing a SPAC. Mark
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=4023.0s	4023.0	 Pinkis is doing a SPAC. Everybody's doing SPACs now. Any
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=4025.8s	4025.8	 speculation on what we're going to see in that market?
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=4029.8s	4029.8	 Nope. God bless them. And I love you all besties.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=4034.0s	4034.0	 All right, besties. Back to the grind.
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=4036.0s	4036.0	 Back to the grind. We'll see you next time. You know what to do
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=4039.1s	4039.1	 share this podcast with your friends if you'd like to
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=4041.0s	4041.0	 advertise on the all in podcast you can't. And so the best you
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=4046.0s	4046.0	 can do is write a review or clip it and we'll see you all next
+https://www.youtube.com/watch?v=DprQR7jhd7A&list=UUESLZhusAkFfsNsApnjF_Cg&index=134&t=4051.2s	4051.2	 time on the all in podcast. Bye bye
