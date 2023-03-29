@@ -12,8 +12,8 @@ export default async function handler(
   ) {
       // Inputs 
       const prompt = req.body.prompt;
-      const apiKey = req.body.apiKey;
-      process.env.OPENAI_API_KEY = apiKey;
+      //const apiKey = req.body.apiKey;
+      //process.env.OPENAI_API_KEY = apiKey;
 
       // Vector DB
       const pinecone = new PineconeClient();

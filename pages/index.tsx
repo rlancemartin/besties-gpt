@@ -16,15 +16,17 @@ export default function Home() {
   const [answer, setAnswer] = useState<string>("");
   const [loading, setLoading] = useState<boolean>(false);  
   const [showSettings, setShowSettings] = useState<boolean>(false);
-  const [apiKey, setApiKey] = useState<string>("");
+  //const [apiKey, setApiKey] = useState<string>("");
 
   // Handle answer 
   const handleAnswer = async () => {
     
+    /*
     if (!apiKey) {
       alert("Please enter an API key.");
       return;
-    }
+    }*/
+    
     if (!query) {
       alert("Please enter a query.");
       return;
@@ -40,7 +42,8 @@ export default function Home() {
       headers: {
         "Content-Type": "application/json"
       },
-      body: JSON.stringify({ query, apiKey })
+      // body: JSON.stringify({ query, apiKey })
+      body: JSON.stringify({ query })
      });
 
      if (!search_results.ok) {
@@ -59,10 +62,8 @@ export default function Home() {
       headers: {
         "Content-Type": "application/json"
       },
-      body: JSON.stringify({ 
-        prompt, 
-        apiKey 
-      }),
+      // body: JSON.stringify({ prompt, apiKey }),
+      body: JSON.stringify({ prompt,}),
       onmessage: (event) => { 
         setLoading(false);
         const data = JSON.parse(event.data);
@@ -82,12 +83,13 @@ export default function Home() {
   };
 
   // Save user API setting 
+  /*
   const handleSave = () => {
     if (apiKey.length !== 51) {
       alert("Please enter a valid API key.");
       return;
     }
-
+    
     // Set values from user inputs 
     localStorage.setItem("KEY", apiKey);
     setShowSettings(false);
@@ -97,14 +99,14 @@ export default function Home() {
     localStorage.removeItem("KEY");
     setApiKey("");
   };
-
   useEffect(() => {
     const KEY = localStorage.getItem("KEY");
     if (KEY) {
       setApiKey(KEY);
     }
   }, []);
-
+  */
+ 
   // Render page
   return (
     <>
@@ -128,51 +130,8 @@ export default function Home() {
         <Navbar />
         <div className="flex-1 overflow-auto">
           <div className="mx-auto flex h-full w-full max-w-[750px] flex-col items-center px-3 pt-4 sm:pt-8">
-            <button
-              className="mt-4 flex cursor-pointer items-center space-x-2 rounded-full border border-zinc-600 px-3 py-1 text-sm hover:opacity-50"
-              onClick={() => setShowSettings(!showSettings)}
-            >
-              {showSettings ? "Hide" : "Show"} Settings
-            </button>
-
-            {showSettings && (
-              <div className="w-[340px] sm:w-[400px]">
-                <div className="mt-2">
-                  <div>OpenAI API Key</div>
-                  <input
-                    type="password"
-                    placeholder="OpenAI API Key"
-                    className="max-w-[400px] block w-full rounded-md border border-gray-300 p-2 text-black shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500 sm:text-sm"
-                    value={apiKey}
-                    onChange={(e) => {
-                      setApiKey(e.target.value);
-
-                      if (e.target.value.length !== 51) {
-                        setShowSettings(true);
-                      }
-                    }}
-                  />
-                </div>
-
-                <div className="mt-4 flex space-x-2 justify-center">
-                  <div
-                    className="flex cursor-pointer items-center space-x-2 rounded-full bg-green-500 px-3 py-1 text-sm text-white hover:bg-green-600"
-                    onClick={handleSave}
-                  >
-                    Save
-                  </div>
-
-                  <div
-                    className="flex cursor-pointer items-center space-x-2 rounded-full bg-red-500 px-3 py-1 text-sm text-white hover:bg-red-600"
-                    onClick={handleClear}
-                  >
-                    Clear
-                  </div>
-                </div>
-              </div>
-            )}
-
-            {apiKey.length === 51 ? (
+           
+            { (
               <div className="relative w-full mt-4">
                 <IconSearch className="absolute top-3 w-10 left-1 h-6 rounded-full opacity-50 sm:left-3 sm:top-4 sm:h-8" />
 
@@ -186,18 +145,7 @@ export default function Home() {
                   onKeyDown={handleKeyDown}
                 />
 
-              </div>
-            ) : (
-              <div className="text-center font-bold text-3xl mt-7">
-                Please enter your
-                <a
-                  className="mx-2 underline hover:opacity-50"
-                  href="https://openai.com/product"
-                >
-                  OpenAI API key
-                </a>
-                in settings.
-              </div>
+              </div> 
             )}
 
             {loading ? (
