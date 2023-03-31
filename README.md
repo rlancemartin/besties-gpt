@@ -8,7 +8,7 @@ https://besties-gpt.fly.dev
 ## Dataset
  
 Use whisper to generate transcripts with all steps outlined in -
-`scripts/get_data.ipynb`
+`scripts/make_index.ipynb`
  
  ## App
 
